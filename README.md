@@ -1,5 +1,3 @@
-![Header](images/header.svg)
-
 [![Konrad's github stats][stats img]][profile url]
 [![Top Languages][langs img]][profile url]
 
