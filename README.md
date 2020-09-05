@@ -7,6 +7,6 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=konradlinkowskii&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=konradlinkowski&color=brightgreen)
 
 <sub><sub>Give me some stars plz</sub></sub>
