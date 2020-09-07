@@ -1,4 +1,4 @@
-# Hello there 👋
+## Hello there 👋
 
 <p align="left" height="130px">
   <a href="https://github.com/KonradLinkowski">
@@ -10,4 +10,4 @@
 ![page views](https://komarev.com/ghpvc/?username=konradlinkowski&color=brightgreen)
 [![badge provider](https://anybadge.herokuapp.com/badge?label=create&message=your%20own%20badge)](https://github.com/KonradLinkowski/AnyBadge)
 
-<sub><sub>Give me some stars plz</sub></sub>
+<sub><sub>Give me some stars plz :shipit:</sub></sub>
