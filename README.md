@@ -12,6 +12,7 @@
 
 <sub><sub>Give me some stars plz :shipit:</sub></sub>
 
+### Latest GitHub activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com//yosif111/Slowloris/issues/1) in [yosif111/Slowloris](https://github.com//yosif111/Slowloris)
 2. 🗣 Commented on [#116](https://github.com//AndrewKeig/express-validation/issues/116) in [AndrewKeig/express-validation](https://github.com//AndrewKeig/express-validation)
