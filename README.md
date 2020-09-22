@@ -14,9 +14,9 @@
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com//Hopson97/CellularAutomaton/issues/3) in [Hopson97/CellularAutomaton](https://github.com//Hopson97/CellularAutomaton)
-2. 🗣 Commented on [#292](https://github.com//anuraghazra/github-readme-stats/issues/292) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
-3. ❗️ Opened issue [#39](https://github.com//lrlna/pino-colada/issues/39) in [lrlna/pino-colada](https://github.com//lrlna/pino-colada)
-4. 💪 Opened PR [#1](https://github.com//Jam3/add-line-numbers/pull/1) in [Jam3/add-line-numbers](https://github.com//Jam3/add-line-numbers)
-5. ❗️ Opened issue [#5](https://github.com//bahmutov/top-dependents/issues/5) in [bahmutov/top-dependents](https://github.com//bahmutov/top-dependents)
+1. 🗣 Commented on [#20504](https://github.com//nodejs/node/issues/20504) in [nodejs/node](https://github.com//nodejs/node)
+2. ❗️ Opened issue [#3](https://github.com//Hopson97/CellularAutomaton/issues/3) in [Hopson97/CellularAutomaton](https://github.com//Hopson97/CellularAutomaton)
+3. 🗣 Commented on [#292](https://github.com//anuraghazra/github-readme-stats/issues/292) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+4. ❗️ Opened issue [#39](https://github.com//lrlna/pino-colada/issues/39) in [lrlna/pino-colada](https://github.com//lrlna/pino-colada)
+5. 💪 Opened PR [#1](https://github.com//Jam3/add-line-numbers/pull/1) in [Jam3/add-line-numbers](https://github.com//Jam3/add-line-numbers)
 <!--END_SECTION:activity-->
