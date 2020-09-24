@@ -16,7 +16,7 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
-    <a href="https://api.github.com/users/alestor123">
+    <a href="https://github.com/alestor123">
       <img src="https://avatars2.githubusercontent.com/u/51041424?v=4" />
       <br />
       alestor123
@@ -24,7 +24,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/cmcquillan">
+    <a href="https://github.com/cmcquillan">
       <img src="https://avatars3.githubusercontent.com/u/1778268?v=4" />
       <br />
       cmcquillan
@@ -32,7 +32,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/YkBastidas">
+    <a href="https://github.com/YkBastidas">
       <img src="https://avatars2.githubusercontent.com/u/44125021?v=4" />
       <br />
       YkBastidas
@@ -40,7 +40,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/Celkowy">
+    <a href="https://github.com/Celkowy">
       <img src="https://avatars3.githubusercontent.com/u/28812904?v=4" />
       <br />
       Celkowy
@@ -48,7 +48,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/uriyyo">
+    <a href="https://github.com/uriyyo">
       <img src="https://avatars2.githubusercontent.com/u/32038156?v=4" />
       <br />
       uriyyo
@@ -56,7 +56,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/jakub-siedlecki">
+    <a href="https://github.com/jakub-siedlecki">
       <img src="https://avatars1.githubusercontent.com/u/18082226?v=4" />
       <br />
       jakub-siedlecki
@@ -64,7 +64,7 @@
   </td></tr>
 <tr>
   <td align="center">
-    <a href="https://api.github.com/users/alinamlynarz">
+    <a href="https://github.com/alinamlynarz">
       <img src="https://avatars1.githubusercontent.com/u/19856760?v=4" />
       <br />
       alinamlynarz
@@ -72,7 +72,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/mblosiu">
+    <a href="https://github.com/mblosiu">
       <img src="https://avatars3.githubusercontent.com/u/32570404?v=4" />
       <br />
       mblosiu
@@ -80,7 +80,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/Linkowski">
+    <a href="https://github.com/Linkowski">
       <img src="https://avatars1.githubusercontent.com/u/23642727?v=4" />
       <br />
       Linkowski
@@ -88,7 +88,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/dziemo">
+    <a href="https://github.com/dziemo">
       <img src="https://avatars1.githubusercontent.com/u/20903126?v=4" />
       <br />
       dziemo
@@ -96,7 +96,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/BaptisteAngot">
+    <a href="https://github.com/BaptisteAngot">
       <img src="https://avatars0.githubusercontent.com/u/41863986?v=4" />
       <br />
       BaptisteAngot
@@ -104,7 +104,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/plumthedev">
+    <a href="https://github.com/plumthedev">
       <img src="https://avatars2.githubusercontent.com/u/26173777?v=4" />
       <br />
       plumthedev
@@ -112,7 +112,7 @@
   </td></tr>
 <tr>
   <td align="center">
-    <a href="https://api.github.com/users/mourice-oduor">
+    <a href="https://github.com/mourice-oduor">
       <img src="https://avatars0.githubusercontent.com/u/38504572?v=4" />
       <br />
       mourice-oduor
@@ -120,7 +120,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/maciekglowacki">
+    <a href="https://github.com/maciekglowacki">
       <img src="https://avatars1.githubusercontent.com/u/29459845?v=4" />
       <br />
       maciekglowacki
@@ -128,7 +128,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/gonnastepsteph">
+    <a href="https://github.com/gonnastepsteph">
       <img src="https://avatars0.githubusercontent.com/u/46465174?v=4" />
       <br />
       gonnastepsteph
@@ -136,7 +136,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/ErykMiszczuk">
+    <a href="https://github.com/ErykMiszczuk">
       <img src="https://avatars3.githubusercontent.com/u/23503254?v=4" />
       <br />
       ErykMiszczuk
@@ -144,7 +144,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/animx11">
+    <a href="https://github.com/animx11">
       <img src="https://avatars2.githubusercontent.com/u/32570676?v=4" />
       <br />
       animx11
@@ -152,7 +152,7 @@
   </td>
 
   <td align="center">
-    <a href="https://api.github.com/users/ctobiasz">
+    <a href="https://github.com/ctobiasz">
       <img src="https://avatars3.githubusercontent.com/u/44296783?v=4" />
       <br />
       ctobiasz
