@@ -31,7 +31,7 @@ const request = (user, token) => new Promise((resolve, reject) => {
 const createTable = (users, numberOfRows, usersPerRow) => {
   const usersHTML = users.map(user => `
   <td align="center">
-    <a href="${user.html_Można odnowić przysurl}">
+    <a href="${user.html_url}">
       <img src="${user.avatar_url}" />
       <br />
       ${user.name || user.login}
