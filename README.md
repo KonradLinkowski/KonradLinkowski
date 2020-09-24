@@ -7,6 +7,8 @@
   </a>
 </p>
 
+![trophies](https://github-profile-trophy.vercel.app/?username=konradlinkowski&margin-w=38)
+
 ![page views](https://komarev.com/ghpvc/?username=konradlinkowski&color=brightgreen)
 [![badge provider](https://anybadge.herokuapp.com/badge?label=create&message=your%20own%20badge)](https://github.com/KonradLinkowski/AnyBadge)
 
