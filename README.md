@@ -16,6 +16,22 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/usmcamgrimm">
+      <img src="https://avatars0.githubusercontent.com/u/4663503?v=4" />
+      <br />
+      usmcamgrimm
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/anajuliabit">
+      <img src="https://avatars0.githubusercontent.com/u/50335980?v=4" />
+      <br />
+      anajuliabit
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/peterkruse">
       <img src="https://avatars3.githubusercontent.com/u/28764957?v=4" />
       <br />
@@ -45,8 +61,8 @@
       <br />
       YkBastidas
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Celkowy">
       <img src="https://avatars3.githubusercontent.com/u/28812904?v=4" />
@@ -61,8 +77,8 @@
       <br />
       uriyyo
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/jakub-siedlecki">
       <img src="https://avatars1.githubusercontent.com/u/18082226?v=4" />
@@ -93,8 +109,8 @@
       <br />
       Linkowski
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/dziemo">
       <img src="https://avatars1.githubusercontent.com/u/20903126?v=4" />
@@ -109,8 +125,8 @@
       <br />
       BaptisteAngot
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/plumthedev">
       <img src="https://avatars2.githubusercontent.com/u/26173777?v=4" />
@@ -140,22 +156,6 @@
       <img src="https://avatars0.githubusercontent.com/u/46465174?v=4" />
       <br />
       gonnastepsteph
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/ErykMiszczuk">
-      <img src="https://avatars3.githubusercontent.com/u/23503254?v=4" />
-      <br />
-      ErykMiszczuk
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/animx11">
-      <img src="https://avatars2.githubusercontent.com/u/32570676?v=4" />
-      <br />
-      animx11
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
