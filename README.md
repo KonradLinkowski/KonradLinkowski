@@ -16,6 +16,14 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://api.github.com/users/alestor123">
+      <img src="https://avatars2.githubusercontent.com/u/51041424?v=4" />
+      <br />
+      alestor123
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://api.github.com/users/cmcquillan">
       <img src="https://avatars3.githubusercontent.com/u/1778268?v=4" />
       <br />
@@ -53,16 +61,16 @@
       <br />
       jakub-siedlecki
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://api.github.com/users/alinamlynarz">
       <img src="https://avatars1.githubusercontent.com/u/19856760?v=4" />
       <br />
       alinamlynarz
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://api.github.com/users/mblosiu">
       <img src="https://avatars3.githubusercontent.com/u/32570404?v=4" />
@@ -101,16 +109,16 @@
       <br />
       plumthedev
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://api.github.com/users/mourice-oduor">
       <img src="https://avatars0.githubusercontent.com/u/38504572?v=4" />
       <br />
       mourice-oduor
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://api.github.com/users/maciekglowacki">
       <img src="https://avatars1.githubusercontent.com/u/29459845?v=4" />
@@ -148,14 +156,6 @@
       <img src="https://avatars3.githubusercontent.com/u/44296783?v=4" />
       <br />
       ctobiasz
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://api.github.com/users/wiktorbalaban">
-      <img src="https://avatars2.githubusercontent.com/u/32570674?v=4" />
-      <br />
-      wiktorbalaban
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
