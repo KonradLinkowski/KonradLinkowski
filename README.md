@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20504](https://github.com//nodejs/node/issues/20504) in [nodejs/node](https://github.com//nodejs/node)
+1. ❗️ Opened issue [#1](https://github.com//nartydev/brexit/issues/1) in [nartydev/brexit](https://github.com//nartydev/brexit)
 2. 🗣 Commented on [#20504](https://github.com//nodejs/node/issues/20504) in [nodejs/node](https://github.com//nodejs/node)
 3. 🗣 Commented on [#20504](https://github.com//nodejs/node/issues/20504) in [nodejs/node](https://github.com//nodejs/node)
-4. ❗️ Opened issue [#3](https://github.com//Hopson97/CellularAutomaton/issues/3) in [Hopson97/CellularAutomaton](https://github.com//Hopson97/CellularAutomaton)
-5. 🗣 Commented on [#292](https://github.com//anuraghazra/github-readme-stats/issues/292) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+4. 🗣 Commented on [#20504](https://github.com//nodejs/node/issues/20504) in [nodejs/node](https://github.com//nodejs/node)
+5. ❗️ Opened issue [#3](https://github.com//Hopson97/CellularAutomaton/issues/3) in [Hopson97/CellularAutomaton](https://github.com//Hopson97/CellularAutomaton)
 <!--END_SECTION:activity-->
