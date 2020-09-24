@@ -16,6 +16,14 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://api.github.com/users/cmcquillan">
+      <img src="https://avatars3.githubusercontent.com/u/1778268?v=4" />
+      <br />
+      cmcquillan
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://api.github.com/users/YkBastidas">
       <img src="https://avatars2.githubusercontent.com/u/44125021?v=4" />
       <br />
@@ -53,16 +61,16 @@
       <br />
       alinamlynarz
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://api.github.com/users/mblosiu">
       <img src="https://avatars3.githubusercontent.com/u/32570404?v=4" />
       <br />
       mblosiu
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://api.github.com/users/Linkowski">
       <img src="https://avatars1.githubusercontent.com/u/23642727?v=4" />
@@ -101,16 +109,16 @@
       <br />
       mourice-oduor
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://api.github.com/users/maciekglowacki">
       <img src="https://avatars1.githubusercontent.com/u/29459845?v=4" />
       <br />
       maciekglowacki
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://api.github.com/users/gonnastepsteph">
       <img src="https://avatars0.githubusercontent.com/u/46465174?v=4" />
@@ -148,14 +156,6 @@
       <img src="https://avatars2.githubusercontent.com/u/32570674?v=4" />
       <br />
       wiktorbalaban
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://api.github.com/users/anacvignola">
-      <img src="https://avatars3.githubusercontent.com/u/18388591?v=4" />
-      <br />
-      anacvignola
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
