@@ -16,6 +16,14 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://api.github.com/users/YkBastidas">
+      <img src="https://avatars2.githubusercontent.com/u/44125021?v=4" />
+      <br />
+      YkBastidas
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://api.github.com/users/Celkowy">
       <img src="https://avatars3.githubusercontent.com/u/28812904?v=4" />
       <br />
@@ -53,16 +61,16 @@
       <br />
       mblosiu
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://api.github.com/users/Linkowski">
       <img src="https://avatars1.githubusercontent.com/u/23642727?v=4" />
       <br />
       Linkowski
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://api.github.com/users/dziemo">
       <img src="https://avatars1.githubusercontent.com/u/20903126?v=4" />
@@ -101,16 +109,16 @@
       <br />
       maciekglowacki
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://api.github.com/users/gonnastepsteph">
       <img src="https://avatars0.githubusercontent.com/u/46465174?v=4" />
       <br />
       gonnastepsteph
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://api.github.com/users/ErykMiszczuk">
       <img src="https://avatars3.githubusercontent.com/u/23503254?v=4" />
@@ -148,14 +156,6 @@
       <img src="https://avatars3.githubusercontent.com/u/18388591?v=4" />
       <br />
       anacvignola
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://api.github.com/users/Adorek">
-      <img src="https://avatars1.githubusercontent.com/u/33174392?v=4" />
-      <br />
-      Adorek
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
