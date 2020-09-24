@@ -16,6 +16,14 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/peterkruse">
+      <img src="https://avatars3.githubusercontent.com/u/28764957?v=4" />
+      <br />
+      peterkruse
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/alestor123">
       <img src="https://avatars2.githubusercontent.com/u/51041424?v=4" />
       <br />
@@ -53,16 +61,16 @@
       <br />
       uriyyo
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/jakub-siedlecki">
       <img src="https://avatars1.githubusercontent.com/u/18082226?v=4" />
       <br />
       jakub-siedlecki
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/alinamlynarz">
       <img src="https://avatars1.githubusercontent.com/u/19856760?v=4" />
@@ -101,16 +109,16 @@
       <br />
       BaptisteAngot
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/plumthedev">
       <img src="https://avatars2.githubusercontent.com/u/26173777?v=4" />
       <br />
       plumthedev
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/mourice-oduor">
       <img src="https://avatars0.githubusercontent.com/u/38504572?v=4" />
@@ -148,14 +156,6 @@
       <img src="https://avatars2.githubusercontent.com/u/32570676?v=4" />
       <br />
       animx11
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/ctobiasz">
-      <img src="https://avatars3.githubusercontent.com/u/44296783?v=4" />
-      <br />
-      ctobiasz
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
