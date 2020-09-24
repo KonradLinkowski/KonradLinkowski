@@ -18,6 +18,14 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/s-i-m-p">
+      <img src="https://avatars0.githubusercontent.com/u/71843632?v=4" />
+      <br />
+      s-i-m-p
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/usmcamgrimm">
       <img src="https://avatars0.githubusercontent.com/u/4663503?v=4" />
       <br />
@@ -55,16 +63,16 @@
       <br />
       cmcquillan
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/YkBastidas">
       <img src="https://avatars2.githubusercontent.com/u/44125021?v=4" />
       <br />
       YkBastidas
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Celkowy">
       <img src="https://avatars3.githubusercontent.com/u/28812904?v=4" />
@@ -103,16 +111,16 @@
       <br />
       mblosiu
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Linkowski">
       <img src="https://avatars1.githubusercontent.com/u/23642727?v=4" />
       <br />
       Linkowski
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/dziemo">
       <img src="https://avatars1.githubusercontent.com/u/20903126?v=4" />
@@ -150,14 +158,6 @@
       <img src="https://avatars1.githubusercontent.com/u/29459845?v=4" />
       <br />
       maciekglowacki
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/gonnastepsteph">
-      <img src="https://avatars0.githubusercontent.com/u/46465174?v=4" />
-      <br />
-      gonnastepsteph
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
