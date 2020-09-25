@@ -18,6 +18,14 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/hanzchiziterem">
+      <img src="https://avatars1.githubusercontent.com/u/66650409?v=4" />
+      <br />
+      hanzchiziterem
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/YoussefRabeiii">
       <img src="https://avatars0.githubusercontent.com/u/26309006?v=4" />
       <br />
@@ -55,16 +63,16 @@
       <br />
       peterkruse
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/alestor123">
       <img src="https://avatars2.githubusercontent.com/u/51041424?v=4" />
       <br />
       alestor123
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/cmcquillan">
       <img src="https://avatars3.githubusercontent.com/u/1778268?v=4" />
@@ -103,16 +111,16 @@
       <br />
       jakub-siedlecki
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/alinamlynarz">
       <img src="https://avatars1.githubusercontent.com/u/19856760?v=4" />
       <br />
       alinamlynarz
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/mblosiu">
       <img src="https://avatars3.githubusercontent.com/u/32570404?v=4" />
@@ -150,14 +158,6 @@
       <img src="https://avatars2.githubusercontent.com/u/26173777?v=4" />
       <br />
       plumthedev
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/mourice-oduor">
-      <img src="https://avatars0.githubusercontent.com/u/38504572?v=4" />
-      <br />
-      mourice-oduor
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
