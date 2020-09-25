@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3645](https://github.com//BoostIO/Boostnote/pull/3645) in [BoostIO/Boostnote](https://github.com//BoostIO/Boostnote)
-2. 🗣 Commented on [#2825](https://github.com//BoostIO/Boostnote/issues/2825) in [BoostIO/Boostnote](https://github.com//BoostIO/Boostnote)
-3. ❗️ Opened issue [#1](https://github.com//nartydev/brexit/issues/1) in [nartydev/brexit](https://github.com//nartydev/brexit)
-4. 🗣 Commented on [#20504](https://github.com//nodejs/node/issues/20504) in [nodejs/node](https://github.com//nodejs/node)
+1. 💪 Opened PR [#5304](https://github.com//nteract/nteract/pull/5304) in [nteract/nteract](https://github.com//nteract/nteract)
+2. 💪 Opened PR [#3645](https://github.com//BoostIO/Boostnote/pull/3645) in [BoostIO/Boostnote](https://github.com//BoostIO/Boostnote)
+3. 🗣 Commented on [#2825](https://github.com//BoostIO/Boostnote/issues/2825) in [BoostIO/Boostnote](https://github.com//BoostIO/Boostnote)
+4. ❗️ Opened issue [#1](https://github.com//nartydev/brexit/issues/1) in [nartydev/brexit](https://github.com//nartydev/brexit)
 5. 🗣 Commented on [#20504](https://github.com//nodejs/node/issues/20504) in [nodejs/node](https://github.com//nodejs/node)
 <!--END_SECTION:activity-->
