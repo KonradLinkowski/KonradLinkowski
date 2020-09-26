@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/oviohub/ovio-ideabox/issues/6) in [oviohub/ovio-ideabox](https://github.com/oviohub/ovio-ideabox)
-2. 💪 Opened PR [#5304](https://github.com/nteract/nteract/pull/5304) in [nteract/nteract](https://github.com/nteract/nteract)
-3. 💪 Opened PR [#3645](https://github.com/BoostIO/Boostnote/pull/3645) in [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote)
-4. 🗣 Commented on [#2825](https://github.com/BoostIO/Boostnote/issues/2825) in [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote)
-5. ❗️ Opened issue [#1](https://github.com/nartydev/brexit/issues/1) in [nartydev/brexit](https://github.com/nartydev/brexit)
+1. ❌ Reopened PR [#1976](https://github.com/josdejong/mathjs/pull/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+2. 💪 Opened PR [#1977](https://github.com/josdejong/mathjs/pull/1977) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+3. ❌ Closed PR [#1976](https://github.com/josdejong/mathjs/pull/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+4. 💪 Opened PR [#1976](https://github.com/josdejong/mathjs/pull/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+5. ❗️ Opened issue [#6](https://github.com/oviohub/ovio-ideabox/issues/6) in [oviohub/ovio-ideabox](https://github.com/oviohub/ovio-ideabox)
 <!--END_SECTION:activity-->
