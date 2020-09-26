@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com//oviohub/ovio-ideabox/issues/6) in [oviohub/ovio-ideabox](https://github.com//oviohub/ovio-ideabox)
-2. 💪 Opened PR [#5304](https://github.com//nteract/nteract/pull/5304) in [nteract/nteract](https://github.com//nteract/nteract)
-3. 💪 Opened PR [#3645](https://github.com//BoostIO/Boostnote/pull/3645) in [BoostIO/Boostnote](https://github.com//BoostIO/Boostnote)
-4. 🗣 Commented on [#2825](https://github.com//BoostIO/Boostnote/issues/2825) in [BoostIO/Boostnote](https://github.com//BoostIO/Boostnote)
-5. ❗️ Opened issue [#1](https://github.com//nartydev/brexit/issues/1) in [nartydev/brexit](https://github.com//nartydev/brexit)
+1. ❗️ Opened issue [#6](https://github.com/oviohub/ovio-ideabox/issues/6) in [oviohub/ovio-ideabox](https://github.com/oviohub/ovio-ideabox)
+2. 💪 Opened PR [#5304](https://github.com/nteract/nteract/pull/5304) in [nteract/nteract](https://github.com/nteract/nteract)
+3. 💪 Opened PR [#3645](https://github.com/BoostIO/Boostnote/pull/3645) in [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote)
+4. 🗣 Commented on [#2825](https://github.com/BoostIO/Boostnote/issues/2825) in [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote)
+5. ❗️ Opened issue [#1](https://github.com/nartydev/brexit/issues/1) in [nartydev/brexit](https://github.com/nartydev/brexit)
 <!--END_SECTION:activity-->
