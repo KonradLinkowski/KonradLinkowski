@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#1976](https://github.com/josdejong/mathjs/pull/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-2. 💪 Opened PR [#1977](https://github.com/josdejong/mathjs/pull/1977) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-3. ❌ Closed PR [#1976](https://github.com/josdejong/mathjs/pull/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-4. 💪 Opened PR [#1976](https://github.com/josdejong/mathjs/pull/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-5. ❗️ Opened issue [#6](https://github.com/oviohub/ovio-ideabox/issues/6) in [oviohub/ovio-ideabox](https://github.com/oviohub/ovio-ideabox)
+1. 🗣 Commented on [#1977](https://github.com/josdejong/mathjs/issues/1977) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+2. ❌ Reopened PR [#1976](https://github.com/josdejong/mathjs/pull/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+3. 💪 Opened PR [#1977](https://github.com/josdejong/mathjs/pull/1977) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+4. ❌ Closed PR [#1976](https://github.com/josdejong/mathjs/pull/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+5. 💪 Opened PR [#1976](https://github.com/josdejong/mathjs/pull/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
 <!--END_SECTION:activity-->
