@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1977](https://github.com/josdejong/mathjs/issues/1977) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-2. ❌ Reopened PR [#1976](https://github.com/josdejong/mathjs/pull/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-3. 💪 Opened PR [#1977](https://github.com/josdejong/mathjs/pull/1977) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-4. ❌ Closed PR [#1976](https://github.com/josdejong/mathjs/pull/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-5. 💪 Opened PR [#1976](https://github.com/josdejong/mathjs/pull/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+1. 🗣 Commented on [#6](https://github.com/servermonk/Algorithm-Visualizer/issues/6) in [servermonk/Algorithm-Visualizer](https://github.com/servermonk/Algorithm-Visualizer)
+2. 💪 Opened PR [#12](https://github.com/servermonk/Algorithm-Visualizer/pull/12) in [servermonk/Algorithm-Visualizer](https://github.com/servermonk/Algorithm-Visualizer)
+3. 💪 Opened PR [#90](https://github.com/RishabhDevbanshi/Emojipedia/pull/90) in [RishabhDevbanshi/Emojipedia](https://github.com/RishabhDevbanshi/Emojipedia)
+4. 🗣 Commented on [#79](https://github.com/RishabhDevbanshi/Emojipedia/issues/79) in [RishabhDevbanshi/Emojipedia](https://github.com/RishabhDevbanshi/Emojipedia)
+5. 🗣 Commented on [#1977](https://github.com/josdejong/mathjs/issues/1977) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
 <!--END_SECTION:activity-->
