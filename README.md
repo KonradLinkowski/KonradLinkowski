@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/kushthedude/To-Do-App/issues/102) in [kushthedude/To-Do-App](https://github.com/kushthedude/To-Do-App)
-2. 🗣 Commented on [#1](https://github.com/TrySickle/test-merge/issues/1) in [TrySickle/test-merge](https://github.com/TrySickle/test-merge)
-3. 🗣 Commented on [#65](https://github.com/a-synchronous/rubico/issues/65) in [a-synchronous/rubico](https://github.com/a-synchronous/rubico)
-4. 🗣 Commented on [#5](https://github.com/a-synchronous/rubico/issues/5) in [a-synchronous/rubico](https://github.com/a-synchronous/rubico)
-5. 💪 Opened PR [#18](https://github.com/srinibasbiswal/Github-Profile-README/pull/18) in [srinibasbiswal/Github-Profile-README](https://github.com/srinibasbiswal/Github-Profile-README)
+1. ❗️ Opened issue [#1](https://github.com/KonradLinkowski/MovieRatingAI/issues/1) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
+2. ❗️ Closed issue [#1](https://github.com/KonradLinkowski/AnyBadge/issues/1) in [KonradLinkowski/AnyBadge](https://github.com/KonradLinkowski/AnyBadge)
+3. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/AnyBadge/pull/2) in [KonradLinkowski/AnyBadge](https://github.com/KonradLinkowski/AnyBadge)
+4. 🗣 Commented on [#2](https://github.com/KonradLinkowski/AnyBadge/issues/2) in [KonradLinkowski/AnyBadge](https://github.com/KonradLinkowski/AnyBadge)
+5. ❗️ Opened issue [#3](https://github.com/KonradLinkowski/IPBox/issues/3) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
 <!--END_SECTION:activity-->
