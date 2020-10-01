@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/KonradLinkowski/MovieRatingAI/issues/1) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
-2. 🗣 Commented on [#2](https://github.com/KonradLinkowski/MovieRatingAI/issues/2) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
-3. ❗️ Opened issue [#1](https://github.com/KonradLinkowski/MovieRatingAI/issues/1) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
-4. ❗️ Closed issue [#1](https://github.com/KonradLinkowski/AnyBadge/issues/1) in [KonradLinkowski/AnyBadge](https://github.com/KonradLinkowski/AnyBadge)
-5. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/AnyBadge/pull/2) in [KonradLinkowski/AnyBadge](https://github.com/KonradLinkowski/AnyBadge)
+1. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/MovieRatingAI/pull/2) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
+2. ❌ Reopened PR [#2](https://github.com/KonradLinkowski/MovieRatingAI/pull/2) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
+3. 🗣 Commented on [#2](https://github.com/KonradLinkowski/MovieRatingAI/issues/2) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
+4. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/MovieRatingAI/pull/3) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
+5. 🗣 Commented on [#1](https://github.com/KonradLinkowski/MovieRatingAI/issues/1) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
 <!--END_SECTION:activity-->
