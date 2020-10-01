@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/servermonk/Algorithm-Visualizer/issues/6) in [servermonk/Algorithm-Visualizer](https://github.com/servermonk/Algorithm-Visualizer)
-2. 💪 Opened PR [#12](https://github.com/servermonk/Algorithm-Visualizer/pull/12) in [servermonk/Algorithm-Visualizer](https://github.com/servermonk/Algorithm-Visualizer)
-3. 💪 Opened PR [#90](https://github.com/RishabhDevbanshi/Emojipedia/pull/90) in [RishabhDevbanshi/Emojipedia](https://github.com/RishabhDevbanshi/Emojipedia)
-4. 🗣 Commented on [#79](https://github.com/RishabhDevbanshi/Emojipedia/issues/79) in [RishabhDevbanshi/Emojipedia](https://github.com/RishabhDevbanshi/Emojipedia)
-5. 🗣 Commented on [#1977](https://github.com/josdejong/mathjs/issues/1977) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+1. 🗣 Commented on [#102](https://github.com/kushthedude/To-Do-App/issues/102) in [kushthedude/To-Do-App](https://github.com/kushthedude/To-Do-App)
+2. 🗣 Commented on [#1](https://github.com/TrySickle/test-merge/issues/1) in [TrySickle/test-merge](https://github.com/TrySickle/test-merge)
+3. 🗣 Commented on [#65](https://github.com/a-synchronous/rubico/issues/65) in [a-synchronous/rubico](https://github.com/a-synchronous/rubico)
+4. 🗣 Commented on [#5](https://github.com/a-synchronous/rubico/issues/5) in [a-synchronous/rubico](https://github.com/a-synchronous/rubico)
+5. 💪 Opened PR [#18](https://github.com/srinibasbiswal/Github-Profile-README/pull/18) in [srinibasbiswal/Github-Profile-README](https://github.com/srinibasbiswal/Github-Profile-README)
 <!--END_SECTION:activity-->
