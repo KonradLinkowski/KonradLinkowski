@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/MovieRatingAI/pull/2) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
-2. ❌ Reopened PR [#2](https://github.com/KonradLinkowski/MovieRatingAI/pull/2) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
-3. 🗣 Commented on [#2](https://github.com/KonradLinkowski/MovieRatingAI/issues/2) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
-4. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/MovieRatingAI/pull/3) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
-5. 🗣 Commented on [#1](https://github.com/KonradLinkowski/MovieRatingAI/issues/1) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
+1. 🗣 Commented on [#12](https://github.com/servermonk/Algorithm-Visualizer/issues/12) in [servermonk/Algorithm-Visualizer](https://github.com/servermonk/Algorithm-Visualizer)
+2. 🗣 Commented on [#1](https://github.com/KonradLinkowski/MovieRatingAI/issues/1) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
+3. 🗣 Commented on [#12](https://github.com/servermonk/Algorithm-Visualizer/issues/12) in [servermonk/Algorithm-Visualizer](https://github.com/servermonk/Algorithm-Visualizer)
+4. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/MovieRatingAI/pull/2) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
+5. ❌ Reopened PR [#2](https://github.com/KonradLinkowski/MovieRatingAI/pull/2) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
 <!--END_SECTION:activity-->
