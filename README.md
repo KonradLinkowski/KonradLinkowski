@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/KonradLinkowski/IPBox/issues/4) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-2. 🎉 Merged PR [#4](https://github.com/KonradLinkowski/MovieRatingAI/pull/4) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
-3. ❗️ Closed issue [#1](https://github.com/KonradLinkowski/MovieRatingAI/issues/1) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
-4. 🗣 Commented on [#4](https://github.com/KonradLinkowski/MovieRatingAI/issues/4) in [KonradLinkowski/MovieRatingAI](https://github.com/KonradLinkowski/MovieRatingAI)
-5. 🗣 Commented on [#12](https://github.com/servermonk/Algorithm-Visualizer/issues/12) in [servermonk/Algorithm-Visualizer](https://github.com/servermonk/Algorithm-Visualizer)
+1. 🎉 Merged PR [#4](https://github.com/KonradLinkowski/IPBox/pull/4) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+2. 🗣 Commented on [#4](https://github.com/KonradLinkowski/IPBox/issues/4) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+3. ❗️ Opened issue [#6](https://github.com/KonradLinkowski/IPBox/issues/6) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+4. ❗️ Opened issue [#5](https://github.com/KonradLinkowski/IPBox/issues/5) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+5. 🗣 Commented on [#4](https://github.com/KonradLinkowski/IPBox/issues/4) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
 <!--END_SECTION:activity-->
