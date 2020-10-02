@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/KonradLinkowski/MusicVisualiser/issues/1) in [KonradLinkowski/MusicVisualiser](https://github.com/KonradLinkowski/MusicVisualiser)
-2. 💪 Opened PR [#106](https://github.com/kushthedude/To-Do-App/pull/106) in [kushthedude/To-Do-App](https://github.com/kushthedude/To-Do-App)
-3. ❗️ Opened issue [#8](https://github.com/KonradLinkowski/IPBox/issues/8) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-4. ❗️ Opened issue [#7](https://github.com/KonradLinkowski/IPBox/issues/7) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-5. 🎉 Merged PR [#4](https://github.com/KonradLinkowski/IPBox/pull/4) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+1. 🗣 Commented on [#7](https://github.com/KonradLinkowski/IPBox/issues/7) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+2. 🎉 Merged PR [#12](https://github.com/KonradLinkowski/IPBox/pull/12) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+3. 💪 Opened PR [#12](https://github.com/KonradLinkowski/IPBox/pull/12) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+4. ❗️ Opened issue [#11](https://github.com/KonradLinkowski/IPBox/issues/11) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+5. 🗣 Commented on [#7](https://github.com/KonradLinkowski/IPBox/issues/7) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
 <!--END_SECTION:activity-->
