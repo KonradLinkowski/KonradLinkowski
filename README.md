@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/KonradLinkowski/IPBox/pull/14) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-2. ❗️ Closed issue [#11](https://github.com/KonradLinkowski/IPBox/issues/11) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-3. 🎉 Merged PR [#13](https://github.com/KonradLinkowski/IPBox/pull/13) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-4. 💪 Opened PR [#13](https://github.com/KonradLinkowski/IPBox/pull/13) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-5. 🗣 Commented on [#7](https://github.com/KonradLinkowski/IPBox/issues/7) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+1. ❌ Closed PR [#303](https://github.com/phuoc-ng/1loc/pull/303) in [phuoc-ng/1loc](https://github.com/phuoc-ng/1loc)
+2. 🎉 Merged PR [#14](https://github.com/KonradLinkowski/IPBox/pull/14) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+3. ❗️ Closed issue [#11](https://github.com/KonradLinkowski/IPBox/issues/11) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+4. 🎉 Merged PR [#13](https://github.com/KonradLinkowski/IPBox/pull/13) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+5. 💪 Opened PR [#13](https://github.com/KonradLinkowski/IPBox/pull/13) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
 <!--END_SECTION:activity-->
