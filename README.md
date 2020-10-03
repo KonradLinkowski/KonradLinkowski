@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/poznan-bilety/pull/2) in [KonradLinkowski/poznan-bilety](https://github.com/KonradLinkowski/poznan-bilety)
-2. 🎉 Merged PR [#1](https://github.com/KonradLinkowski/poznan-bilety/pull/1) in [KonradLinkowski/poznan-bilety](https://github.com/KonradLinkowski/poznan-bilety)
-3. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-4. ❗️ Closed issue [#8](https://github.com/KonradLinkowski/IPBox/issues/8) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-5. ❌ Closed PR [#16](https://github.com/KonradLinkowski/IPBox/pull/16) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+1. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+2. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+3. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/poznan-bilety/pull/2) in [KonradLinkowski/poznan-bilety](https://github.com/KonradLinkowski/poznan-bilety)
+4. 🎉 Merged PR [#1](https://github.com/KonradLinkowski/poznan-bilety/pull/1) in [KonradLinkowski/poznan-bilety](https://github.com/KonradLinkowski/poznan-bilety)
+5. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
 <!--END_SECTION:activity-->
