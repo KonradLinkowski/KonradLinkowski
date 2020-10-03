@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-2. ❗️ Closed issue [#8](https://github.com/KonradLinkowski/IPBox/issues/8) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-3. ❌ Closed PR [#16](https://github.com/KonradLinkowski/IPBox/pull/16) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-4. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/Scricher/pull/3) in [KonradLinkowski/Scricher](https://github.com/KonradLinkowski/Scricher)
-5. ❗️ Opened issue [#3](https://github.com/KonradLinkowski/AnnoyMe/issues/3) in [KonradLinkowski/AnnoyMe](https://github.com/KonradLinkowski/AnnoyMe)
+1. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/poznan-bilety/pull/2) in [KonradLinkowski/poznan-bilety](https://github.com/KonradLinkowski/poznan-bilety)
+2. 🎉 Merged PR [#1](https://github.com/KonradLinkowski/poznan-bilety/pull/1) in [KonradLinkowski/poznan-bilety](https://github.com/KonradLinkowski/poznan-bilety)
+3. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+4. ❗️ Closed issue [#8](https://github.com/KonradLinkowski/IPBox/issues/8) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+5. ❌ Closed PR [#16](https://github.com/KonradLinkowski/IPBox/pull/16) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
 <!--END_SECTION:activity-->
