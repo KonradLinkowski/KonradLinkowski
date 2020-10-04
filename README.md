@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/KonradLinkowski/Population/issues/5) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
-2. 🗣 Commented on [#5](https://github.com/KonradLinkowski/Population/issues/5) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
-3. 🎉 Merged PR [#5](https://github.com/KonradLinkowski/Population/pull/5) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
-4. ❗️ Closed issue [#3](https://github.com/KonradLinkowski/Population/issues/3) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
-5. 🗣 Commented on [#5](https://github.com/KonradLinkowski/Population/issues/5) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+1. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/Scricher/pull/2) in [KonradLinkowski/Scricher](https://github.com/KonradLinkowski/Scricher)
+2. 🗣 Commented on [#142](https://github.com/coderwassananmol/BUB2/issues/142) in [coderwassananmol/BUB2](https://github.com/coderwassananmol/BUB2)
+3. 🗣 Commented on [#5](https://github.com/KonradLinkowski/Population/issues/5) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+4. 🗣 Commented on [#5](https://github.com/KonradLinkowski/Population/issues/5) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+5. 🎉 Merged PR [#5](https://github.com/KonradLinkowski/Population/pull/5) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
 <!--END_SECTION:activity-->
