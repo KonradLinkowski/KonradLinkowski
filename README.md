@@ -18,6 +18,14 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/trojanjunior">
+      <img src="https://avatars3.githubusercontent.com/u/70294955?v=4" />
+      <br />
+      trojanjunior
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/trylinka">
       <img src="https://avatars1.githubusercontent.com/u/39160193?v=4" />
       <br />
@@ -55,16 +63,16 @@
       <br />
       s-i-m-p
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/usmcamgrimm">
       <img src="https://avatars0.githubusercontent.com/u/4663503?v=4" />
       <br />
       usmcamgrimm
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/anajuliabit">
       <img src="https://avatars0.githubusercontent.com/u/50335980?v=4" />
@@ -103,16 +111,16 @@
       <br />
       YkBastidas
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/Celkowy">
       <img src="https://avatars3.githubusercontent.com/u/28812904?v=4" />
       <br />
       Celkowy
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/uriyyo">
       <img src="https://avatars2.githubusercontent.com/u/32038156?v=4" />
@@ -150,14 +158,6 @@
       <img src="https://avatars1.githubusercontent.com/u/23642727?v=4" />
       <br />
       Linkowski
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/dziemo">
-      <img src="https://avatars1.githubusercontent.com/u/20903126?v=4" />
-      <br />
-      dziemo
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
