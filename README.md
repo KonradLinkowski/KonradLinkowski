@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/KonradLinkowski/Population/issues/6) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
-2. 🎉 Merged PR [#18](https://github.com/KonradLinkowski/IPBox/pull/18) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-3. ❗️ Opened issue [#8](https://github.com/KonradLinkowski/Population/issues/8) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
-4. 🎉 Merged PR [#6](https://github.com/KonradLinkowski/Population/pull/6) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
-5. 🗣 Commented on [#6](https://github.com/KonradLinkowski/Population/issues/6) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+1. 💪 Opened PR [#3](https://github.com/amitness/newspaper/pull/3) in [amitness/newspaper](https://github.com/amitness/newspaper)
+2. ❗️ Opened issue [#10](https://github.com/KonradLinkowski/Population/issues/10) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+3. ❗️ Opened issue [#9](https://github.com/KonradLinkowski/Population/issues/9) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+4. 🗣 Commented on [#6](https://github.com/KonradLinkowski/Population/issues/6) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+5. 🎉 Merged PR [#18](https://github.com/KonradLinkowski/IPBox/pull/18) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
 <!--END_SECTION:activity-->
