@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/KonradLinkowski/GeneticDrawer/issues/3) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-2. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/GeneticDrawer/pull/2) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-3. ❗️ Closed issue [#1](https://github.com/KonradLinkowski/GeneticDrawer/issues/1) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-4. 💪 Opened PR [#2](https://github.com/KonradLinkowski/GeneticDrawer/pull/2) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-5. 🗣 Commented on [#4](https://github.com/KonradLinkowski/Population/issues/4) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+1. 🎉 Merged PR [#5](https://github.com/KonradLinkowski/AnnoyMe/pull/5) in [KonradLinkowski/AnnoyMe](https://github.com/KonradLinkowski/AnnoyMe)
+2. ❗️ Opened issue [#3](https://github.com/KonradLinkowski/GeneticDrawer/issues/3) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+3. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/GeneticDrawer/pull/2) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+4. ❗️ Closed issue [#1](https://github.com/KonradLinkowski/GeneticDrawer/issues/1) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+5. 💪 Opened PR [#2](https://github.com/KonradLinkowski/GeneticDrawer/pull/2) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
 <!--END_SECTION:activity-->
