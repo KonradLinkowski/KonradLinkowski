@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/KonradLinkowski/AnnoyMe/pull/5) in [KonradLinkowski/AnnoyMe](https://github.com/KonradLinkowski/AnnoyMe)
-2. ❗️ Opened issue [#3](https://github.com/KonradLinkowski/GeneticDrawer/issues/3) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-3. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/GeneticDrawer/pull/2) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-4. ❗️ Closed issue [#1](https://github.com/KonradLinkowski/GeneticDrawer/issues/1) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-5. 💪 Opened PR [#2](https://github.com/KonradLinkowski/GeneticDrawer/pull/2) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+1. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/Scricher-vuejs/pull/3) in [KonradLinkowski/Scricher-vuejs](https://github.com/KonradLinkowski/Scricher-vuejs)
+2. 🎉 Merged PR [#4](https://github.com/KonradLinkowski/Scricher-vuejs/pull/4) in [KonradLinkowski/Scricher-vuejs](https://github.com/KonradLinkowski/Scricher-vuejs)
+3. 🎉 Merged PR [#5](https://github.com/KonradLinkowski/Scricher-vuejs/pull/5) in [KonradLinkowski/Scricher-vuejs](https://github.com/KonradLinkowski/Scricher-vuejs)
+4. 🎉 Merged PR [#6](https://github.com/KonradLinkowski/SearchIndexer/pull/6) in [KonradLinkowski/SearchIndexer](https://github.com/KonradLinkowski/SearchIndexer)
+5. 🎉 Merged PR [#1](https://github.com/KonradLinkowski/Simplex/pull/1) in [KonradLinkowski/Simplex](https://github.com/KonradLinkowski/Simplex)
 <!--END_SECTION:activity-->
