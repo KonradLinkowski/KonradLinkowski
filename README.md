@@ -168,7 +168,7 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
 2. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-3. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/Scricher-vuejs/pull/3) in [KonradLinkowski/Scricher-vuejs](https://github.com/KonradLinkowski/Scricher-vuejs)
-4. 🎉 Merged PR [#4](https://github.com/KonradLinkowski/Scricher-vuejs/pull/4) in [KonradLinkowski/Scricher-vuejs](https://github.com/KonradLinkowski/Scricher-vuejs)
-5. 🎉 Merged PR [#5](https://github.com/KonradLinkowski/Scricher-vuejs/pull/5) in [KonradLinkowski/Scricher-vuejs](https://github.com/KonradLinkowski/Scricher-vuejs)
+3. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+4. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+5. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/Scricher-vuejs/pull/3) in [KonradLinkowski/Scricher-vuejs](https://github.com/KonradLinkowski/Scricher-vuejs)
 <!--END_SECTION:activity-->
