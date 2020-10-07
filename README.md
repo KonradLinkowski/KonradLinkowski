@@ -18,6 +18,22 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/skykeyjoker">
+      <img src="https://avatars2.githubusercontent.com/u/17134346?v=4" />
+      <br />
+      skykeyjoker
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/gabrielhmelo">
+      <img src="https://avatars2.githubusercontent.com/u/50870406?v=4" />
+      <br />
+      gabrielhmelo
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/trojanjunior">
       <img src="https://avatars3.githubusercontent.com/u/70294955?v=4" />
       <br />
@@ -47,8 +63,8 @@
       <br />
       hanzchiziterem
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/YoussefRabeiii">
       <img src="https://avatars0.githubusercontent.com/u/26309006?v=4" />
@@ -63,8 +79,8 @@
       <br />
       s-i-m-p
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/usmcamgrimm">
       <img src="https://avatars0.githubusercontent.com/u/4663503?v=4" />
@@ -95,8 +111,8 @@
       <br />
       alestor123
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/cmcquillan">
       <img src="https://avatars3.githubusercontent.com/u/1778268?v=4" />
@@ -111,8 +127,8 @@
       <br />
       YkBastidas
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/Celkowy">
       <img src="https://avatars3.githubusercontent.com/u/28812904?v=4" />
@@ -142,22 +158,6 @@
       <img src="https://avatars1.githubusercontent.com/u/19856760?v=4" />
       <br />
       alinamlynarz
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/mblosiu">
-      <img src="https://avatars3.githubusercontent.com/u/32570404?v=4" />
-      <br />
-      mblosiu
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/Linkowski">
-      <img src="https://avatars1.githubusercontent.com/u/23642727?v=4" />
-      <br />
-      Linkowski
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
