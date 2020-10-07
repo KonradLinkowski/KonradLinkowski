@@ -166,9 +166,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+1. ❗️ Opened issue [#4](https://github.com/KonradLinkowski/GeneticDrawer/issues/4) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
 2. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
 3. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
 4. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-5. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/Scricher-vuejs/pull/3) in [KonradLinkowski/Scricher-vuejs](https://github.com/KonradLinkowski/Scricher-vuejs)
+5. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
 <!--END_SECTION:activity-->
