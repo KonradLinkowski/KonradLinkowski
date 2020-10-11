@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/KonradLinkowski/GeneticDrawer/issues/15) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-2. 🗣 Commented on [#16](https://github.com/KonradLinkowski/GeneticDrawer/issues/16) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-3. ❗️ Closed issue [#2](https://github.com/KonradLinkowski/Voronoi/issues/2) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-4. 🎉 Merged PR [#7](https://github.com/KonradLinkowski/Voronoi/pull/7) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-5. 🎉 Merged PR [#13](https://github.com/KonradLinkowski/GeneticDrawer/pull/13) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+1. 💪 Opened PR [#1](https://github.com/kutarate/BudgetPlanner/pull/1) in [kutarate/BudgetPlanner](https://github.com/kutarate/BudgetPlanner)
+2. 🗣 Commented on [#15](https://github.com/KonradLinkowski/GeneticDrawer/issues/15) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+3. 🗣 Commented on [#16](https://github.com/KonradLinkowski/GeneticDrawer/issues/16) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+4. ❗️ Closed issue [#2](https://github.com/KonradLinkowski/Voronoi/issues/2) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
+5. 🎉 Merged PR [#7](https://github.com/KonradLinkowski/Voronoi/pull/7) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
 <!--END_SECTION:activity-->
