@@ -45,29 +45,21 @@
   </td>
 
   <td align="center">
-    <a href="https://github.com/trojanjunior">
-      <img src="https://avatars3.githubusercontent.com/u/70294955?v=4" />
-      <br />
-      trojanjunior
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/trylinka">
       <img src="https://avatars1.githubusercontent.com/u/39160193?v=4" />
       <br />
       trylinka
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/tejastn10">
       <img src="https://avatars2.githubusercontent.com/u/52375207?v=4" />
       <br />
       tejastn10
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/hanzchiziterem">
       <img src="https://avatars1.githubusercontent.com/u/66650409?v=4" />
@@ -106,16 +98,16 @@
       <br />
       anajuliabit
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/peterkruse">
       <img src="https://avatars3.githubusercontent.com/u/28764957?v=4" />
       <br />
       peterkruse
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/alestor123">
       <img src="https://avatars2.githubusercontent.com/u/51041424?v=4" />
@@ -153,6 +145,14 @@
       <img src="https://avatars2.githubusercontent.com/u/32038156?v=4" />
       <br />
       uriyyo
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/jakub-siedlecki">
+      <img src="https://avatars1.githubusercontent.com/u/18082226?v=4" />
+      <br />
+      jakub-siedlecki
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
