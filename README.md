@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-2. 🎉 Merged PR [#2](https://github.com/kutarate/BudgetPlanner/pull/2) in [kutarate/BudgetPlanner](https://github.com/kutarate/BudgetPlanner)
-3. 🗣 Commented on [#14](https://github.com/KonradLinkowski/Population/issues/14) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
-4. 💪 Opened PR [#1](https://github.com/kutarate/BudgetPlanner/pull/1) in [kutarate/BudgetPlanner](https://github.com/kutarate/BudgetPlanner)
-5. 🗣 Commented on [#15](https://github.com/KonradLinkowski/GeneticDrawer/issues/15) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+1. 💪 Opened PR [#1](https://github.com/Celkowy/to-do-list/pull/1) in [Celkowy/to-do-list](https://github.com/Celkowy/to-do-list)
+2. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+3. 🎉 Merged PR [#2](https://github.com/kutarate/BudgetPlanner/pull/2) in [kutarate/BudgetPlanner](https://github.com/kutarate/BudgetPlanner)
+4. 🗣 Commented on [#14](https://github.com/KonradLinkowski/Population/issues/14) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+5. 💪 Opened PR [#1](https://github.com/kutarate/BudgetPlanner/pull/1) in [kutarate/BudgetPlanner](https://github.com/kutarate/BudgetPlanner)
 <!--END_SECTION:activity-->
