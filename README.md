@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/voidcosmos/npkill/issues/65) in [voidcosmos/npkill](https://github.com/voidcosmos/npkill)
-2. 💪 Opened PR [#1](https://github.com/Celkowy/to-do-list/pull/1) in [Celkowy/to-do-list](https://github.com/Celkowy/to-do-list)
-3. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
-4. 🎉 Merged PR [#2](https://github.com/kutarate/BudgetPlanner/pull/2) in [kutarate/BudgetPlanner](https://github.com/kutarate/BudgetPlanner)
-5. 🗣 Commented on [#14](https://github.com/KonradLinkowski/Population/issues/14) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+1. 🗣 Commented on [#9](https://github.com/KonradLinkowski/Voronoi/issues/9) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
+2. 🗣 Commented on [#65](https://github.com/voidcosmos/npkill/issues/65) in [voidcosmos/npkill](https://github.com/voidcosmos/npkill)
+3. 💪 Opened PR [#1](https://github.com/Celkowy/to-do-list/pull/1) in [Celkowy/to-do-list](https://github.com/Celkowy/to-do-list)
+4. 🗣 Commented on [#1976](https://github.com/josdejong/mathjs/issues/1976) in [josdejong/mathjs](https://github.com/josdejong/mathjs)
+5. 🎉 Merged PR [#2](https://github.com/kutarate/BudgetPlanner/pull/2) in [kutarate/BudgetPlanner](https://github.com/kutarate/BudgetPlanner)
 <!--END_SECTION:activity-->
