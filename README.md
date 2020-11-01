@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/KonradLinkowski/Voronoi/issues/10) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-2. 🗣 Commented on [#11](https://github.com/KonradLinkowski/Voronoi/issues/11) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-3. 🗣 Commented on [#10](https://github.com/KonradLinkowski/Voronoi/issues/10) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-4. ❗️ Opened issue [#10](https://github.com/KonradLinkowski/Voronoi/issues/10) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-5. 🗣 Commented on [#16](https://github.com/KonradLinkowski/GeneticDrawer/issues/16) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+1. 🗣 Commented on [#383](https://github.com/itzg/docker-minecraft-server/issues/383) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+2. 🗣 Commented on [#10](https://github.com/KonradLinkowski/Voronoi/issues/10) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
+3. 🗣 Commented on [#11](https://github.com/KonradLinkowski/Voronoi/issues/11) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
+4. 🗣 Commented on [#10](https://github.com/KonradLinkowski/Voronoi/issues/10) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
+5. ❗️ Opened issue [#10](https://github.com/KonradLinkowski/Voronoi/issues/10) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
 <!--END_SECTION:activity-->
