@@ -109,14 +109,6 @@
   </td></tr>
 <tr>
   <td align="center">
-    <a href="https://github.com/peterkruse">
-      <img src="https://avatars3.githubusercontent.com/u/28764957?v=4" />
-      <br />
-      peterkruse
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/alestor123">
       <img src="https://avatars2.githubusercontent.com/u/51041424?v=4" />
       <br />
@@ -153,6 +145,14 @@
       <img src="https://avatars2.githubusercontent.com/u/32038156?v=4" />
       <br />
       uriyyo
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/jakub-siedlecki">
+      <img src="https://avatars1.githubusercontent.com/u/18082226?v=4" />
+      <br />
+      jakub-siedlecki
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
