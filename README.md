@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/KonradLinkowski/Voronoi/issues/11) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-2. 🗣 Commented on [#383](https://github.com/itzg/docker-minecraft-server/issues/383) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+1. 💪 Opened PR [#927](https://github.com/Wikia/ad-engine/pull/927) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+2. 🗣 Commented on [#11](https://github.com/KonradLinkowski/Voronoi/issues/11) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
 3. 🗣 Commented on [#383](https://github.com/itzg/docker-minecraft-server/issues/383) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
-4. 🗣 Commented on [#10](https://github.com/KonradLinkowski/Voronoi/issues/10) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-5. 🗣 Commented on [#11](https://github.com/KonradLinkowski/Voronoi/issues/11) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
+4. 🗣 Commented on [#383](https://github.com/itzg/docker-minecraft-server/issues/383) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+5. 🗣 Commented on [#10](https://github.com/KonradLinkowski/Voronoi/issues/10) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
 <!--END_SECTION:activity-->
