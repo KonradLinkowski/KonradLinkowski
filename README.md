@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/KonradLinkowski/Voronoi/pull/11) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-2. 🗣 Commented on [#11](https://github.com/KonradLinkowski/Voronoi/issues/11) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-3. ❗️ Closed issue [#10](https://github.com/KonradLinkowski/Voronoi/issues/10) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-4. 🎉 Merged PR [#12](https://github.com/KonradLinkowski/Voronoi/pull/12) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-5. 💪 Opened PR [#12](https://github.com/KonradLinkowski/Voronoi/pull/12) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
+1. 💪 Opened PR [#928](https://github.com/Wikia/ad-engine/pull/928) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+2. ❌ Closed PR [#11](https://github.com/KonradLinkowski/Voronoi/pull/11) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
+3. 🗣 Commented on [#11](https://github.com/KonradLinkowski/Voronoi/issues/11) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
+4. ❗️ Closed issue [#10](https://github.com/KonradLinkowski/Voronoi/issues/10) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
+5. 🎉 Merged PR [#12](https://github.com/KonradLinkowski/Voronoi/pull/12) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
 <!--END_SECTION:activity-->
