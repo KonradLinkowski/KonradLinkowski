@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/alexsomai/stackoverflow-fanatic-badge/issues/14) in [alexsomai/stackoverflow-fanatic-badge](https://github.com/alexsomai/stackoverflow-fanatic-badge)
-2. ❗️ Opened issue [#14](https://github.com/alexsomai/stackoverflow-fanatic-badge/issues/14) in [alexsomai/stackoverflow-fanatic-badge](https://github.com/alexsomai/stackoverflow-fanatic-badge)
-3. 💪 Opened PR [#928](https://github.com/Wikia/ad-engine/pull/928) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
-4. ❌ Closed PR [#11](https://github.com/KonradLinkowski/Voronoi/pull/11) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
-5. 🗣 Commented on [#11](https://github.com/KonradLinkowski/Voronoi/issues/11) in [KonradLinkowski/Voronoi](https://github.com/KonradLinkowski/Voronoi)
+1. 🗣 Commented on [#6](https://github.com/oviohub/ovio-ideabox/issues/6) in [oviohub/ovio-ideabox](https://github.com/oviohub/ovio-ideabox)
+2. ❗️ Opened issue [#8](https://github.com/samyk/opensesame/issues/8) in [samyk/opensesame](https://github.com/samyk/opensesame)
+3. 🗣 Commented on [#6](https://github.com/samyk/opensesame/issues/6) in [samyk/opensesame](https://github.com/samyk/opensesame)
+4. 🗣 Commented on [#14](https://github.com/alexsomai/stackoverflow-fanatic-badge/issues/14) in [alexsomai/stackoverflow-fanatic-badge](https://github.com/alexsomai/stackoverflow-fanatic-badge)
+5. ❗️ Opened issue [#14](https://github.com/alexsomai/stackoverflow-fanatic-badge/issues/14) in [alexsomai/stackoverflow-fanatic-badge](https://github.com/alexsomai/stackoverflow-fanatic-badge)
 <!--END_SECTION:activity-->
