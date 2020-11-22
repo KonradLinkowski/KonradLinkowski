@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#934](https://github.com/Wikia/ad-engine/pull/934) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
-2. 🗣 Commented on [#6](https://github.com/oviohub/ovio-ideabox/issues/6) in [oviohub/ovio-ideabox](https://github.com/oviohub/ovio-ideabox)
-3. ❗️ Opened issue [#8](https://github.com/samyk/opensesame/issues/8) in [samyk/opensesame](https://github.com/samyk/opensesame)
-4. 🗣 Commented on [#6](https://github.com/samyk/opensesame/issues/6) in [samyk/opensesame](https://github.com/samyk/opensesame)
-5. 🗣 Commented on [#14](https://github.com/alexsomai/stackoverflow-fanatic-badge/issues/14) in [alexsomai/stackoverflow-fanatic-badge](https://github.com/alexsomai/stackoverflow-fanatic-badge)
+1. 💪 Opened PR [#18246](https://github.com/Wikia/app/pull/18246) in [Wikia/app](https://github.com/Wikia/app)
+2. 💪 Opened PR [#934](https://github.com/Wikia/ad-engine/pull/934) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+3. 🗣 Commented on [#6](https://github.com/oviohub/ovio-ideabox/issues/6) in [oviohub/ovio-ideabox](https://github.com/oviohub/ovio-ideabox)
+4. ❗️ Opened issue [#8](https://github.com/samyk/opensesame/issues/8) in [samyk/opensesame](https://github.com/samyk/opensesame)
+5. 🗣 Commented on [#6](https://github.com/samyk/opensesame/issues/6) in [samyk/opensesame](https://github.com/samyk/opensesame)
 <!--END_SECTION:activity-->
