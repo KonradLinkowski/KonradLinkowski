@@ -109,14 +109,6 @@
   </td></tr>
 <tr>
   <td align="center">
-    <a href="https://github.com/anajuliabit">
-      <img src="https://avatars0.githubusercontent.com/u/50335980?v=4" />
-      <br />
-      anajuliabit
-    </a> 
-  </td>
-
-  <td align="center">
     <a href="https://github.com/peterkruse">
       <img src="https://avatars3.githubusercontent.com/u/28764957?v=4" />
       <br />
@@ -153,6 +145,14 @@
       <img src="https://avatars3.githubusercontent.com/u/28812904?v=4" />
       <br />
       Celkowy
+    </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/uriyyo">
+      <img src="https://avatars2.githubusercontent.com/u/32038156?v=4" />
+      <br />
+      uriyyo
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
