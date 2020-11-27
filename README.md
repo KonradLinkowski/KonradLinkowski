@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/atanunq/viuer/issues/9) in [atanunq/viuer](https://github.com/atanunq/viuer)
-2. 💪 Opened PR [#18246](https://github.com/Wikia/app/pull/18246) in [Wikia/app](https://github.com/Wikia/app)
-3. 💪 Opened PR [#934](https://github.com/Wikia/ad-engine/pull/934) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
-4. 🗣 Commented on [#6](https://github.com/oviohub/ovio-ideabox/issues/6) in [oviohub/ovio-ideabox](https://github.com/oviohub/ovio-ideabox)
-5. ❗️ Opened issue [#8](https://github.com/samyk/opensesame/issues/8) in [samyk/opensesame](https://github.com/samyk/opensesame)
+1. 🗣 Commented on [#9](https://github.com/atanunq/viuer/issues/9) in [atanunq/viuer](https://github.com/atanunq/viuer)
+2. ❗️ Opened issue [#9](https://github.com/atanunq/viuer/issues/9) in [atanunq/viuer](https://github.com/atanunq/viuer)
+3. 💪 Opened PR [#18246](https://github.com/Wikia/app/pull/18246) in [Wikia/app](https://github.com/Wikia/app)
+4. 💪 Opened PR [#934](https://github.com/Wikia/ad-engine/pull/934) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+5. 🗣 Commented on [#6](https://github.com/oviohub/ovio-ideabox/issues/6) in [oviohub/ovio-ideabox](https://github.com/oviohub/ovio-ideabox)
 <!--END_SECTION:activity-->
