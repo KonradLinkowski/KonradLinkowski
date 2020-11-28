@@ -13,6 +13,14 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/VegaDeftwing">
+      <img src="https://avatars0.githubusercontent.com/u/11283620?v=4" />
+      <br />
+      VegaDeftwing
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/pompel123">
       <img src="https://avatars3.githubusercontent.com/u/6089923?v=4" />
       <br />
@@ -50,16 +58,16 @@
       <br />
       dfoltynski
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/gabrielhmelo">
       <img src="https://avatars2.githubusercontent.com/u/50870406?v=4" />
       <br />
       gabrielhmelo
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/trylinka">
       <img src="https://avatars1.githubusercontent.com/u/39160193?v=4" />
@@ -98,16 +106,16 @@
       <br />
       s-i-m-p
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/usmcamgrimm">
       <img src="https://avatars0.githubusercontent.com/u/4663503?v=4" />
       <br />
       usmcamgrimm
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/peterkruse">
       <img src="https://avatars3.githubusercontent.com/u/28764957?v=4" />
@@ -145,14 +153,6 @@
       <img src="https://avatars3.githubusercontent.com/u/28812904?v=4" />
       <br />
       Celkowy
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/uriyyo">
-      <img src="https://avatars2.githubusercontent.com/u/32038156?v=4" />
-      <br />
-      uriyyo
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
