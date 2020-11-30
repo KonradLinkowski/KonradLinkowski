@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/Bielik20/adeng-jenkins-cli/pull/15) in [Bielik20/adeng-jenkins-cli](https://github.com/Bielik20/adeng-jenkins-cli)
-2. 🗣 Commented on [#9](https://github.com/atanunq/viuer/issues/9) in [atanunq/viuer](https://github.com/atanunq/viuer)
-3. ❗️ Opened issue [#9](https://github.com/atanunq/viuer/issues/9) in [atanunq/viuer](https://github.com/atanunq/viuer)
-4. 💪 Opened PR [#18246](https://github.com/Wikia/app/pull/18246) in [Wikia/app](https://github.com/Wikia/app)
-5. 💪 Opened PR [#934](https://github.com/Wikia/ad-engine/pull/934) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+1. 💪 Opened PR [#940](https://github.com/Wikia/ad-engine/pull/940) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+2. 💪 Opened PR [#15](https://github.com/Bielik20/adeng-jenkins-cli/pull/15) in [Bielik20/adeng-jenkins-cli](https://github.com/Bielik20/adeng-jenkins-cli)
+3. 🗣 Commented on [#9](https://github.com/atanunq/viuer/issues/9) in [atanunq/viuer](https://github.com/atanunq/viuer)
+4. ❗️ Opened issue [#9](https://github.com/atanunq/viuer/issues/9) in [atanunq/viuer](https://github.com/atanunq/viuer)
+5. 💪 Opened PR [#18246](https://github.com/Wikia/app/pull/18246) in [Wikia/app](https://github.com/Wikia/app)
 <!--END_SECTION:activity-->
