@@ -13,6 +13,14 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/adamhayrettin11">
+      <img src="https://avatars2.githubusercontent.com/u/75229608?v=4" />
+      <br />
+      adamhayrettin11
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/VegaDeftwing">
       <img src="https://avatars0.githubusercontent.com/u/11283620?v=4" />
       <br />
@@ -50,16 +58,16 @@
       <br />
       kcaribou
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/dfoltynski">
       <img src="https://avatars1.githubusercontent.com/u/53613664?v=4" />
       <br />
       dfoltynski
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/gabrielhmelo">
       <img src="https://avatars2.githubusercontent.com/u/50870406?v=4" />
@@ -98,16 +106,16 @@
       <br />
       YoussefRabeiii
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/s-i-m-p">
       <img src="https://avatars0.githubusercontent.com/u/71843632?v=4" />
       <br />
       s-i-m-p
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/usmcamgrimm">
       <img src="https://avatars0.githubusercontent.com/u/4663503?v=4" />
@@ -145,14 +153,6 @@
       <img src="https://avatars2.githubusercontent.com/u/44125021?v=4" />
       <br />
       YkBastidas
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/Celkowy">
-      <img src="https://avatars3.githubusercontent.com/u/28812904?v=4" />
-      <br />
-      Celkowy
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
