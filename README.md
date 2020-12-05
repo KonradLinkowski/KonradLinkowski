@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-![stats](https://github-readme-stats.vercel.app/api?username=KonradLinkowski&hide_title=true&show_icons=true&include_all_commits=true&text_color=2f80ed&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api?username=KonradLinkowski&hide_title=true&show_icons=true&include_all_commits=true&text_color=2f80ed&count_private=true&disable_animations=true)
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=konradlinkowski)
 
