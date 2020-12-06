@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#944](https://github.com/Wikia/ad-engine/pull/944) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
-2. 💪 Opened PR [#940](https://github.com/Wikia/ad-engine/pull/940) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
-3. 💪 Opened PR [#15](https://github.com/Bielik20/adeng-jenkins-cli/pull/15) in [Bielik20/adeng-jenkins-cli](https://github.com/Bielik20/adeng-jenkins-cli)
-4. 🗣 Commented on [#9](https://github.com/atanunq/viuer/issues/9) in [atanunq/viuer](https://github.com/atanunq/viuer)
-5. ❗️ Opened issue [#9](https://github.com/atanunq/viuer/issues/9) in [atanunq/viuer](https://github.com/atanunq/viuer)
+1. ❗️ Opened issue [#3](https://github.com/beurtschipper/Depix/issues/3) in [beurtschipper/Depix](https://github.com/beurtschipper/Depix)
+2. 🗣 Commented on [#292](https://github.com/anuraghazra/github-readme-stats/issues/292) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. 🎉 Merged PR [#944](https://github.com/Wikia/ad-engine/pull/944) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+4. 💪 Opened PR [#940](https://github.com/Wikia/ad-engine/pull/940) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+5. 💪 Opened PR [#15](https://github.com/Bielik20/adeng-jenkins-cli/pull/15) in [Bielik20/adeng-jenkins-cli](https://github.com/Bielik20/adeng-jenkins-cli)
 <!--END_SECTION:activity-->
