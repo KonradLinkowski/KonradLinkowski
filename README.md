@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#281](https://github.com/osa1/tiny/issues/281) in [osa1/tiny](https://github.com/osa1/tiny)
-2. 💪 Opened PR [#947](https://github.com/Wikia/ad-engine/pull/947) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
-3. ❗️ Opened issue [#3](https://github.com/beurtschipper/Depix/issues/3) in [beurtschipper/Depix](https://github.com/beurtschipper/Depix)
-4. 🗣 Commented on [#292](https://github.com/anuraghazra/github-readme-stats/issues/292) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-5. 🎉 Merged PR [#944](https://github.com/Wikia/ad-engine/pull/944) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+1. 💪 Opened PR [#646](https://github.com/Bogdanp/awesome-advent-of-code/pull/646) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
+2. ❗️ Opened issue [#281](https://github.com/osa1/tiny/issues/281) in [osa1/tiny](https://github.com/osa1/tiny)
+3. 💪 Opened PR [#947](https://github.com/Wikia/ad-engine/pull/947) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+4. ❗️ Opened issue [#3](https://github.com/beurtschipper/Depix/issues/3) in [beurtschipper/Depix](https://github.com/beurtschipper/Depix)
+5. 🗣 Commented on [#292](https://github.com/anuraghazra/github-readme-stats/issues/292) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
