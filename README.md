@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/luckosr/countrypedia/pull/1) in [luckosr/countrypedia](https://github.com/luckosr/countrypedia)
-2. 💪 Opened PR [#656](https://github.com/Bogdanp/awesome-advent-of-code/pull/656) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
-3. 💪 Opened PR [#655](https://github.com/Bogdanp/awesome-advent-of-code/pull/655) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
-4. 💪 Opened PR [#646](https://github.com/Bogdanp/awesome-advent-of-code/pull/646) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
-5. ❗️ Opened issue [#281](https://github.com/osa1/tiny/issues/281) in [osa1/tiny](https://github.com/osa1/tiny)
+1. ❗️ Opened issue [#15](https://github.com/flackr/wormy/issues/15) in [flackr/wormy](https://github.com/flackr/wormy)
+2. ❗️ Opened issue [#30](https://github.com/flackr/lobby/issues/30) in [flackr/lobby](https://github.com/flackr/lobby)
+3. 💪 Opened PR [#1](https://github.com/luckosr/countrypedia/pull/1) in [luckosr/countrypedia](https://github.com/luckosr/countrypedia)
+4. 💪 Opened PR [#656](https://github.com/Bogdanp/awesome-advent-of-code/pull/656) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
+5. 💪 Opened PR [#655](https://github.com/Bogdanp/awesome-advent-of-code/pull/655) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
 <!--END_SECTION:activity-->
