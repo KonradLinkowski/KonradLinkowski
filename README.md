@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/KonradLinkowski/IPBox/pull/20) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-2. ❗️ Closed issue [#7](https://github.com/KonradLinkowski/IPBox/issues/7) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-3. 💪 Opened PR [#20](https://github.com/KonradLinkowski/IPBox/pull/20) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-4. 🗣 Commented on [#7](https://github.com/KonradLinkowski/IPBox/issues/7) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-5. ❗️ Closed issue [#368](https://github.com/microsoft/vscode-extension-samples/issues/368) in [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)
+1. ❗️ Closed issue [#6](https://github.com/KonradLinkowski/Fiswietlacz/issues/6) in [KonradLinkowski/Fiswietlacz](https://github.com/KonradLinkowski/Fiswietlacz)
+2. 🎉 Merged PR [#20](https://github.com/KonradLinkowski/IPBox/pull/20) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+3. ❗️ Closed issue [#7](https://github.com/KonradLinkowski/IPBox/issues/7) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+4. 💪 Opened PR [#20](https://github.com/KonradLinkowski/IPBox/pull/20) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+5. 🗣 Commented on [#7](https://github.com/KonradLinkowski/IPBox/issues/7) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
 <!--END_SECTION:activity-->
