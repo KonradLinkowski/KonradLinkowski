@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#943](https://github.com/Wikia/ad-engine/pull/943) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
-2. ❗️ Closed issue [#6](https://github.com/KonradLinkowski/Fiswietlacz/issues/6) in [KonradLinkowski/Fiswietlacz](https://github.com/KonradLinkowski/Fiswietlacz)
-3. 🎉 Merged PR [#20](https://github.com/KonradLinkowski/IPBox/pull/20) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-4. ❗️ Closed issue [#7](https://github.com/KonradLinkowski/IPBox/issues/7) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-5. 💪 Opened PR [#20](https://github.com/KonradLinkowski/IPBox/pull/20) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+1. 🎉 Merged PR [#2405](https://github.com/Wikia/mobile-wiki/pull/2405) in [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
+2. 🎉 Merged PR [#18258](https://github.com/Wikia/app/pull/18258) in [Wikia/app](https://github.com/Wikia/app)
+3. 🎉 Merged PR [#943](https://github.com/Wikia/ad-engine/pull/943) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+4. ❗️ Closed issue [#6](https://github.com/KonradLinkowski/Fiswietlacz/issues/6) in [KonradLinkowski/Fiswietlacz](https://github.com/KonradLinkowski/Fiswietlacz)
+5. 🎉 Merged PR [#20](https://github.com/KonradLinkowski/IPBox/pull/20) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
 <!--END_SECTION:activity-->
