@@ -21,6 +21,14 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/cliffordfajardo">
+      <img src="https://avatars0.githubusercontent.com/u/6743796?v=4" />
+      <br />
+      cliffordfajardo
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/roryw10">
       <img src="https://avatars1.githubusercontent.com/u/5229850?v=4" />
       <br />
@@ -58,16 +66,16 @@
       <br />
       Maryfitza8
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/adamhayrettin11">
       <img src="https://avatars2.githubusercontent.com/u/75229608?v=4" />
       <br />
       adamhayrettin11
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/VegaDeftwing">
       <img src="https://avatars0.githubusercontent.com/u/11283620?v=4" />
@@ -106,16 +114,16 @@
       <br />
       kcaribou
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/dfoltynski">
       <img src="https://avatars1.githubusercontent.com/u/53613664?v=4" />
       <br />
       dfoltynski
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/gabrielhmelo">
       <img src="https://avatars2.githubusercontent.com/u/50870406?v=4" />
@@ -153,14 +161,6 @@
       <img src="https://avatars0.githubusercontent.com/u/26309006?v=4" />
       <br />
       YoussefRabeiii
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/s-i-m-p">
-      <img src="https://avatars0.githubusercontent.com/u/71843632?v=4" />
-      <br />
-      s-i-m-p
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
