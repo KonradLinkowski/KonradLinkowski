@@ -161,9 +161,9 @@ Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouu
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9656](https://github.com/timburgan/timburgan/issues/9656) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#3210](https://github.com/Eugeny/terminus/issues/3210) in [Eugeny/terminus](https://github.com/Eugeny/terminus)
-3. 🗣 Commented on [#15](https://github.com/open-webrtc-toolkit/owt-server-p2p/issues/15) in [open-webrtc-toolkit/owt-server-p2p](https://github.com/open-webrtc-toolkit/owt-server-p2p)
-4. 🎉 Merged PR [#2405](https://github.com/Wikia/mobile-wiki/pull/2405) in [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
-5. 🎉 Merged PR [#18258](https://github.com/Wikia/app/pull/18258) in [Wikia/app](https://github.com/Wikia/app)
+1. ❗️ Opened issue [#414](https://github.com/supabase/supabase/issues/414) in [supabase/supabase](https://github.com/supabase/supabase)
+2. ❗️ Opened issue [#9656](https://github.com/timburgan/timburgan/issues/9656) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+3. ❗️ Opened issue [#3210](https://github.com/Eugeny/terminus/issues/3210) in [Eugeny/terminus](https://github.com/Eugeny/terminus)
+4. 🗣 Commented on [#15](https://github.com/open-webrtc-toolkit/owt-server-p2p/issues/15) in [open-webrtc-toolkit/owt-server-p2p](https://github.com/open-webrtc-toolkit/owt-server-p2p)
+5. 🎉 Merged PR [#2405](https://github.com/Wikia/mobile-wiki/pull/2405) in [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
 <!--END_SECTION:activity-->
