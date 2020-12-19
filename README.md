@@ -1,25 +1,25 @@
-## Hello there 👋
-
-![stats](https://github-readme-stats.vercel.app/api?username=KonradLinkowski&hide_title=true&show_icons=true&include_all_commits=true&text_color=2f80ed&count_private=true&disable_animations=true)
-
-![trophies](https://github-profile-trophy.vercel.app/?username=konradlinkowski)
+# Hello there 👋
 
 ![page views](https://komarev.com/ghpvc/?username=konradlinkowski&color=brightgreen)
 [![badge provider](https://anybadge.herokuapp.com/badge?label=create&message=your%20own%20badge)](https://github.com/KonradLinkowski/AnyBadge)
 
+## Stats
+![stats](https://github-readme-stats.vercel.app/api?username=KonradLinkowski&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark)
+
 <sub><sub>Give me some stars plz :shipit:</sub></sub>
 
-### My Followers
+## Latest GitHub activity
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#9656](https://github.com/timburgan/timburgan/issues/9656) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#3210](https://github.com/Eugeny/terminus/issues/3210) in [Eugeny/terminus](https://github.com/Eugeny/terminus)
+3. 🗣 Commented on [#15](https://github.com/open-webrtc-toolkit/owt-server-p2p/issues/15) in [open-webrtc-toolkit/owt-server-p2p](https://github.com/open-webrtc-toolkit/owt-server-p2p)
+4. 🎉 Merged PR [#2405](https://github.com/Wikia/mobile-wiki/pull/2405) in [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
+5. 🎉 Merged PR [#18258](https://github.com/Wikia/app/pull/18258) in [Wikia/app](https://github.com/Wikia/app)
+<!--END_SECTION:activity-->
+
+## My Followers
 <!--START_SECTION:top-followers-->
 <table><tr>
-  <td align="center">
-    <a href="https://github.com/awalias">
-      <img src="https://avatars3.githubusercontent.com/u/458736?v=4" />
-      <br />
-      awalias
-    </a> 
-  </td>
-
   <td align="center">
     <a href="https://github.com/Wajrak-net">
       <img src="https://avatars1.githubusercontent.com/u/41954395?v=4" />
@@ -58,16 +58,16 @@
       <br />
       VegaDeftwing
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/pompel123">
       <img src="https://avatars3.githubusercontent.com/u/6089923?v=4" />
       <br />
       pompel123
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/doc22940">
       <img src="https://avatars3.githubusercontent.com/u/57328920?v=4" />
@@ -106,16 +106,16 @@
       <br />
       gabrielhmelo
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/trylinka">
       <img src="https://avatars1.githubusercontent.com/u/39160193?v=4" />
       <br />
       trylinka
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/tejastn10">
       <img src="https://avatars2.githubusercontent.com/u/52375207?v=4" />
@@ -154,16 +154,15 @@
       <br />
       usmcamgrimm
     </a> 
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/peterkruse">
+      <img src="https://avatars3.githubusercontent.com/u/28764957?v=4" />
+      <br />
+      peterkruse
+    </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
 
 Follow me to see yourself here. Inspired by [ouuan](https://github.com/ouuan/ouuan)
-
-### Latest GitHub activity
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#414](https://github.com/supabase/supabase/issues/414) in [supabase/supabase](https://github.com/supabase/supabase)
-2. ❗️ Opened issue [#9656](https://github.com/timburgan/timburgan/issues/9656) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#3210](https://github.com/Eugeny/terminus/issues/3210) in [Eugeny/terminus](https://github.com/Eugeny/terminus)
-4. 🗣 Commented on [#15](https://github.com/open-webrtc-toolkit/owt-server-p2p/issues/15) in [open-webrtc-toolkit/owt-server-p2p](https://github.com/open-webrtc-toolkit/owt-server-p2p)
-5. 🎉 Merged PR [#2405](https://github.com/Wikia/mobile-wiki/pull/2405) in [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
-<!--END_SECTION:activity-->
