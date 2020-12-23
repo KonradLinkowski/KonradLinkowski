@@ -10,11 +10,11 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/appsicle/CodeClimbers/pull/1) in [appsicle/CodeClimbers](https://github.com/appsicle/CodeClimbers)
-2. ❗️ Opened issue [#1](https://github.com/olafsulich/olafsulich/issues/1) in [olafsulich/olafsulich](https://github.com/olafsulich/olafsulich)
-3. ❗️ Opened issue [#414](https://github.com/supabase/supabase/issues/414) in [supabase/supabase](https://github.com/supabase/supabase)
-4. ❗️ Opened issue [#9656](https://github.com/timburgan/timburgan/issues/9656) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-5. ❗️ Opened issue [#3210](https://github.com/Eugeny/terminus/issues/3210) in [Eugeny/terminus](https://github.com/Eugeny/terminus)
+1. 💪 Opened PR [#951](https://github.com/Wikia/ad-engine/pull/951) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+2. 💪 Opened PR [#1](https://github.com/appsicle/CodeClimbers/pull/1) in [appsicle/CodeClimbers](https://github.com/appsicle/CodeClimbers)
+3. ❗️ Opened issue [#1](https://github.com/olafsulich/olafsulich/issues/1) in [olafsulich/olafsulich](https://github.com/olafsulich/olafsulich)
+4. ❗️ Opened issue [#414](https://github.com/supabase/supabase/issues/414) in [supabase/supabase](https://github.com/supabase/supabase)
+5. ❗️ Opened issue [#9656](https://github.com/timburgan/timburgan/issues/9656) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 ## My Followers
