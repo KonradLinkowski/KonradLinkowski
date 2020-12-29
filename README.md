@@ -10,11 +10,11 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2416](https://github.com/Wikia/mobile-wiki/pull/2416) in [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
-2. 💪 Opened PR [#951](https://github.com/Wikia/ad-engine/pull/951) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
-3. 💪 Opened PR [#1](https://github.com/appsicle/CodeClimbers/pull/1) in [appsicle/CodeClimbers](https://github.com/appsicle/CodeClimbers)
-4. ❗️ Opened issue [#1](https://github.com/olafsulich/olafsulich/issues/1) in [olafsulich/olafsulich](https://github.com/olafsulich/olafsulich)
-5. ❗️ Opened issue [#414](https://github.com/supabase/supabase/issues/414) in [supabase/supabase](https://github.com/supabase/supabase)
+1. ❗️ Opened issue [#16](https://github.com/lazymozek/gulp-with-tailwindcss/issues/16) in [lazymozek/gulp-with-tailwindcss](https://github.com/lazymozek/gulp-with-tailwindcss)
+2. 💪 Opened PR [#2416](https://github.com/Wikia/mobile-wiki/pull/2416) in [Wikia/mobile-wiki](https://github.com/Wikia/mobile-wiki)
+3. 💪 Opened PR [#951](https://github.com/Wikia/ad-engine/pull/951) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+4. 💪 Opened PR [#1](https://github.com/appsicle/CodeClimbers/pull/1) in [appsicle/CodeClimbers](https://github.com/appsicle/CodeClimbers)
+5. ❗️ Opened issue [#1](https://github.com/olafsulich/olafsulich/issues/1) in [olafsulich/olafsulich](https://github.com/olafsulich/olafsulich)
 <!--END_SECTION:activity-->
 
 ## My Followers
