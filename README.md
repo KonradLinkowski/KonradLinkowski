@@ -10,11 +10,11 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Celkowy/harry-potter/pull/1) in [Celkowy/harry-potter](https://github.com/Celkowy/harry-potter)
-2. 💪 Opened PR [#2](https://github.com/SzymonRojek/sm-dashboard-theme-switcher/pull/2) in [SzymonRojek/sm-dashboard-theme-switcher](https://github.com/SzymonRojek/sm-dashboard-theme-switcher)
-3. 💪 Opened PR [#17](https://github.com/lazymozek/gulp-with-tailwindcss/pull/17) in [lazymozek/gulp-with-tailwindcss](https://github.com/lazymozek/gulp-with-tailwindcss)
-4. 💪 Opened PR [#1](https://github.com/SzymonRojek/sm-dashboard-theme-switcher/pull/1) in [SzymonRojek/sm-dashboard-theme-switcher](https://github.com/SzymonRojek/sm-dashboard-theme-switcher)
-5. ❗️ Opened issue [#16](https://github.com/lazymozek/gulp-with-tailwindcss/issues/16) in [lazymozek/gulp-with-tailwindcss](https://github.com/lazymozek/gulp-with-tailwindcss)
+1. 🗣 Commented on [#69](https://github.com/ad-m/github-push-action/issues/69) in [ad-m/github-push-action](https://github.com/ad-m/github-push-action)
+2. 💪 Opened PR [#1](https://github.com/Celkowy/harry-potter/pull/1) in [Celkowy/harry-potter](https://github.com/Celkowy/harry-potter)
+3. 💪 Opened PR [#2](https://github.com/SzymonRojek/sm-dashboard-theme-switcher/pull/2) in [SzymonRojek/sm-dashboard-theme-switcher](https://github.com/SzymonRojek/sm-dashboard-theme-switcher)
+4. 💪 Opened PR [#17](https://github.com/lazymozek/gulp-with-tailwindcss/pull/17) in [lazymozek/gulp-with-tailwindcss](https://github.com/lazymozek/gulp-with-tailwindcss)
+5. 💪 Opened PR [#1](https://github.com/SzymonRojek/sm-dashboard-theme-switcher/pull/1) in [SzymonRojek/sm-dashboard-theme-switcher](https://github.com/SzymonRojek/sm-dashboard-theme-switcher)
 <!--END_SECTION:activity-->
 
 ## My Followers
