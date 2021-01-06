@@ -10,11 +10,11 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/KonradLinkowski/GitPlayground/pull/1) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
-2. 💪 Opened PR [#1](https://github.com/KonradLinkowski/GitPlayground/pull/1) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
-3. 🗣 Commented on [#69](https://github.com/ad-m/github-push-action/issues/69) in [ad-m/github-push-action](https://github.com/ad-m/github-push-action)
-4. 💪 Opened PR [#1](https://github.com/Celkowy/harry-potter/pull/1) in [Celkowy/harry-potter](https://github.com/Celkowy/harry-potter)
-5. 💪 Opened PR [#2](https://github.com/SzymonRojek/sm-dashboard-theme-switcher/pull/2) in [SzymonRojek/sm-dashboard-theme-switcher](https://github.com/SzymonRojek/sm-dashboard-theme-switcher)
+1. 🗣 Commented on [#16](https://github.com/KonradLinkowski/Population/issues/16) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+2. 🎉 Merged PR [#17](https://github.com/KonradLinkowski/Population/pull/17) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+3. 💪 Opened PR [#17](https://github.com/KonradLinkowski/Population/pull/17) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+4. 🎉 Merged PR [#1](https://github.com/KonradLinkowski/GitPlayground/pull/1) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
+5. 💪 Opened PR [#1](https://github.com/KonradLinkowski/GitPlayground/pull/1) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
 <!--END_SECTION:activity-->
 
 ## My Followers
