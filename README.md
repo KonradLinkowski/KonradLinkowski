@@ -10,11 +10,11 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/Korona/pull/3) in [KonradLinkowski/Korona](https://github.com/KonradLinkowski/Korona)
-2. 🎉 Merged PR [#21](https://github.com/KonradLinkowski/IPBox/pull/21) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-3. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/SitemapGenerator/pull/3) in [KonradLinkowski/SitemapGenerator](https://github.com/KonradLinkowski/SitemapGenerator)
-4. 🗣 Commented on [#16](https://github.com/KonradLinkowski/Population/issues/16) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
-5. 🎉 Merged PR [#17](https://github.com/KonradLinkowski/Population/pull/17) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
+1. 💪 Opened PR [#955](https://github.com/Wikia/ad-engine/pull/955) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+2. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/Korona/pull/3) in [KonradLinkowski/Korona](https://github.com/KonradLinkowski/Korona)
+3. 🎉 Merged PR [#21](https://github.com/KonradLinkowski/IPBox/pull/21) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
+4. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/SitemapGenerator/pull/3) in [KonradLinkowski/SitemapGenerator](https://github.com/KonradLinkowski/SitemapGenerator)
+5. 🗣 Commented on [#16](https://github.com/KonradLinkowski/Population/issues/16) in [KonradLinkowski/Population](https://github.com/KonradLinkowski/Population)
 <!--END_SECTION:activity-->
 
 ## My Followers
