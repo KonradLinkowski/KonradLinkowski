@@ -10,11 +10,11 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/samyk/opensesame/issues/6) in [samyk/opensesame](https://github.com/samyk/opensesame)
-2. 💪 Opened PR [#955](https://github.com/Wikia/ad-engine/pull/955) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
-3. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/Korona/pull/3) in [KonradLinkowski/Korona](https://github.com/KonradLinkowski/Korona)
-4. 🎉 Merged PR [#21](https://github.com/KonradLinkowski/IPBox/pull/21) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
-5. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/SitemapGenerator/pull/3) in [KonradLinkowski/SitemapGenerator](https://github.com/KonradLinkowski/SitemapGenerator)
+1. ❗️ Opened issue [#1](https://github.com/KonradLinkowski/Dotter/issues/1) in [KonradLinkowski/Dotter](https://github.com/KonradLinkowski/Dotter)
+2. 🗣 Commented on [#6](https://github.com/samyk/opensesame/issues/6) in [samyk/opensesame](https://github.com/samyk/opensesame)
+3. 💪 Opened PR [#955](https://github.com/Wikia/ad-engine/pull/955) in [Wikia/ad-engine](https://github.com/Wikia/ad-engine)
+4. 🎉 Merged PR [#3](https://github.com/KonradLinkowski/Korona/pull/3) in [KonradLinkowski/Korona](https://github.com/KonradLinkowski/Korona)
+5. 🎉 Merged PR [#21](https://github.com/KonradLinkowski/IPBox/pull/21) in [KonradLinkowski/IPBox](https://github.com/KonradLinkowski/IPBox)
 <!--END_SECTION:activity-->
 
 ## My Followers
