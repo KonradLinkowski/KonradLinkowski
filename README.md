@@ -21,6 +21,14 @@
 <!--START_SECTION:top-followers-->
 <table><tr>
   <td align="center">
+    <a href="https://github.com/iwtga">
+      <img src="https://avatars.githubusercontent.com/u/59861270?v=4" />
+      <br />
+      iwtga
+    </a> 
+  </td>
+
+  <td align="center">
     <a href="https://github.com/peterzam">
       <img src="https://avatars.githubusercontent.com/u/54433833?v=4" />
       <br />
@@ -58,16 +66,16 @@
       <br />
       cliffordfajardo
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/roryw10">
       <img src="https://avatars.githubusercontent.com/u/5229850?v=4" />
       <br />
       roryw10
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/awalias">
       <img src="https://avatars.githubusercontent.com/u/458736?v=4" />
@@ -106,16 +114,16 @@
       <br />
       VegaDeftwing
     </a> 
-  </td>
-
+  </td></tr>
+<tr>
   <td align="center">
     <a href="https://github.com/pompel123">
       <img src="https://avatars.githubusercontent.com/u/6089923?v=4" />
       <br />
       pompel123
     </a> 
-  </td></tr>
-<tr>
+  </td>
+
   <td align="center">
     <a href="https://github.com/doc22940">
       <img src="https://avatars.githubusercontent.com/u/57328920?v=4" />
@@ -153,14 +161,6 @@
       <img src="https://avatars.githubusercontent.com/u/50870406?v=4" />
       <br />
       gabrielhmelo
-    </a> 
-  </td>
-
-  <td align="center">
-    <a href="https://github.com/trylinka">
-      <img src="https://avatars.githubusercontent.com/u/39160193?v=4" />
-      <br />
-      trylinka
     </a> 
   </td></tr></table>
 <!--END_SECTION:top-followers-->
