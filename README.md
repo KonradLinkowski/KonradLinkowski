@@ -10,11 +10,11 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Celkowy/to-do-list/pull/2) in [Celkowy/to-do-list](https://github.com/Celkowy/to-do-list)
-2. 🎉 Merged PR [#1](https://github.com/KonradLinkowski/to-do-list/pull/1) in [KonradLinkowski/to-do-list](https://github.com/KonradLinkowski/to-do-list)
-3. 💪 Opened PR [#1](https://github.com/KonradLinkowski/to-do-list/pull/1) in [KonradLinkowski/to-do-list](https://github.com/KonradLinkowski/to-do-list)
-4. ❗️ Opened issue [#547](https://github.com/JessicaLim8/JessicaLim8/issues/547) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-5. ❗️ Closed issue [#1](https://github.com/KonradLinkowski/Dotter/issues/1) in [KonradLinkowski/Dotter](https://github.com/KonradLinkowski/Dotter)
+1. 🗣 Commented on [#420](https://github.com/okonet/lint-staged/issues/420) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
+2. 💪 Opened PR [#2](https://github.com/Celkowy/to-do-list/pull/2) in [Celkowy/to-do-list](https://github.com/Celkowy/to-do-list)
+3. 🎉 Merged PR [#1](https://github.com/KonradLinkowski/to-do-list/pull/1) in [KonradLinkowski/to-do-list](https://github.com/KonradLinkowski/to-do-list)
+4. 💪 Opened PR [#1](https://github.com/KonradLinkowski/to-do-list/pull/1) in [KonradLinkowski/to-do-list](https://github.com/KonradLinkowski/to-do-list)
+5. ❗️ Opened issue [#547](https://github.com/JessicaLim8/JessicaLim8/issues/547) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 ## My Followers
