@@ -10,9 +10,9 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#427](https://github.com/webcamoid/webcamoid/issues/427) in [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid)
-2. ❗️ Opened issue [#427](https://github.com/webcamoid/webcamoid/issues/427) in [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid)
-3. 🗣 Commented on [#18](https://github.com/mikewesthad/navmesh/issues/18) in [mikewesthad/navmesh](https://github.com/mikewesthad/navmesh)
-4. ❗️ Opened issue [#11](https://github.com/johnbiundo/mvc-sessions/issues/11) in [johnbiundo/mvc-sessions](https://github.com/johnbiundo/mvc-sessions)
-5. ❗️ Opened issue [#31](https://github.com/feross/cross-zip/issues/31) in [feross/cross-zip](https://github.com/feross/cross-zip)
+1. 💪 Opened PR [#206](https://github.com/denysdovhan/wtfjs/pull/206) in [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
+2. 🗣 Commented on [#427](https://github.com/webcamoid/webcamoid/issues/427) in [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid)
+3. ❗️ Opened issue [#427](https://github.com/webcamoid/webcamoid/issues/427) in [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid)
+4. 🗣 Commented on [#18](https://github.com/mikewesthad/navmesh/issues/18) in [mikewesthad/navmesh](https://github.com/mikewesthad/navmesh)
+5. ❗️ Opened issue [#11](https://github.com/johnbiundo/mvc-sessions/issues/11) in [johnbiundo/mvc-sessions](https://github.com/johnbiundo/mvc-sessions)
 <!--END_SECTION:activity-->
