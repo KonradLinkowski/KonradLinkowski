@@ -10,9 +10,9 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/tg-z/til/issues/7) in [tg-z/til](https://github.com/tg-z/til)
-2. ❗️ Opened issue [#18](https://github.com/jagenjo/Canvas2DtoWebGL/issues/18) in [jagenjo/Canvas2DtoWebGL](https://github.com/jagenjo/Canvas2DtoWebGL)
-3. 💪 Opened PR [#206](https://github.com/denysdovhan/wtfjs/pull/206) in [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
-4. 🗣 Commented on [#427](https://github.com/webcamoid/webcamoid/issues/427) in [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid)
-5. ❗️ Opened issue [#427](https://github.com/webcamoid/webcamoid/issues/427) in [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid)
+1. ❗️ Opened issue [#2](https://github.com/allenkim67/allenkim67.github.io/issues/2) in [allenkim67/allenkim67.github.io](https://github.com/allenkim67/allenkim67.github.io)
+2. ❗️ Opened issue [#7](https://github.com/tg-z/til/issues/7) in [tg-z/til](https://github.com/tg-z/til)
+3. ❗️ Opened issue [#18](https://github.com/jagenjo/Canvas2DtoWebGL/issues/18) in [jagenjo/Canvas2DtoWebGL](https://github.com/jagenjo/Canvas2DtoWebGL)
+4. 💪 Opened PR [#206](https://github.com/denysdovhan/wtfjs/pull/206) in [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
+5. 🗣 Commented on [#427](https://github.com/webcamoid/webcamoid/issues/427) in [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid)
 <!--END_SECTION:activity-->
