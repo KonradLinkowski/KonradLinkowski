@@ -10,9 +10,9 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/johnBuffer/NoCol/issues/9) in [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol)
-2. 🗣 Commented on [#4](https://github.com/tdhooper/threejs-slice-geometry/issues/4) in [tdhooper/threejs-slice-geometry](https://github.com/tdhooper/threejs-slice-geometry)
-3. ❗️ Opened issue [#1](https://github.com/tadeusz-lewandowski/watch-later/issues/1) in [tadeusz-lewandowski/watch-later](https://github.com/tadeusz-lewandowski/watch-later)
-4. ❗️ Opened issue [#4](https://github.com/sindresorhus/is-unicode-supported/issues/4) in [sindresorhus/is-unicode-supported](https://github.com/sindresorhus/is-unicode-supported)
-5. ❗️ Opened issue [#2](https://github.com/allenkim67/allenkim67.github.io/issues/2) in [allenkim67/allenkim67.github.io](https://github.com/allenkim67/allenkim67.github.io)
+1. 🗣 Commented on [#9](https://github.com/johnBuffer/NoCol/issues/9) in [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol)
+2. ❗️ Opened issue [#9](https://github.com/johnBuffer/NoCol/issues/9) in [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol)
+3. 🗣 Commented on [#4](https://github.com/tdhooper/threejs-slice-geometry/issues/4) in [tdhooper/threejs-slice-geometry](https://github.com/tdhooper/threejs-slice-geometry)
+4. ❗️ Opened issue [#1](https://github.com/tadeusz-lewandowski/watch-later/issues/1) in [tadeusz-lewandowski/watch-later](https://github.com/tadeusz-lewandowski/watch-later)
+5. ❗️ Opened issue [#4](https://github.com/sindresorhus/is-unicode-supported/issues/4) in [sindresorhus/is-unicode-supported](https://github.com/sindresorhus/is-unicode-supported)
 <!--END_SECTION:activity-->
