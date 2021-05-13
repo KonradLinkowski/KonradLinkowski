@@ -10,9 +10,9 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/johnBuffer/NoCol/issues/9) in [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol)
-2. ❗️ Opened issue [#9](https://github.com/johnBuffer/NoCol/issues/9) in [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol)
-3. 🗣 Commented on [#4](https://github.com/tdhooper/threejs-slice-geometry/issues/4) in [tdhooper/threejs-slice-geometry](https://github.com/tdhooper/threejs-slice-geometry)
-4. ❗️ Opened issue [#1](https://github.com/tadeusz-lewandowski/watch-later/issues/1) in [tadeusz-lewandowski/watch-later](https://github.com/tadeusz-lewandowski/watch-later)
-5. ❗️ Opened issue [#4](https://github.com/sindresorhus/is-unicode-supported/issues/4) in [sindresorhus/is-unicode-supported](https://github.com/sindresorhus/is-unicode-supported)
+1. 🗣 Commented on [#6](https://github.com/KonradLinkowski/GeneticDrawer/issues/6) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+2. ❗️ Closed issue [#12](https://github.com/KonradLinkowski/GeneticDrawer/issues/12) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+3. 🗣 Commented on [#15](https://github.com/KonradLinkowski/GeneticDrawer/issues/15) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+4. 🗣 Commented on [#9](https://github.com/johnBuffer/NoCol/issues/9) in [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol)
+5. ❗️ Opened issue [#9](https://github.com/johnBuffer/NoCol/issues/9) in [johnBuffer/NoCol](https://github.com/johnBuffer/NoCol)
 <!--END_SECTION:activity-->
