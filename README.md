@@ -10,9 +10,9 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6143](https://github.com/timgrossmann/InstaPy/issues/6143) in [timgrossmann/InstaPy](https://github.com/timgrossmann/InstaPy)
-2. ❗️ Opened issue [#2](https://github.com/saviomartin/loficlub/issues/2) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-3. 🗣 Commented on [#6](https://github.com/KonradLinkowski/GeneticDrawer/issues/6) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-4. ❗️ Closed issue [#12](https://github.com/KonradLinkowski/GeneticDrawer/issues/12) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-5. 🗣 Commented on [#15](https://github.com/KonradLinkowski/GeneticDrawer/issues/15) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+1. 🗣 Commented on [#12823](https://github.com/expo/expo/issues/12823) in [expo/expo](https://github.com/expo/expo)
+2. 🗣 Commented on [#6143](https://github.com/timgrossmann/InstaPy/issues/6143) in [timgrossmann/InstaPy](https://github.com/timgrossmann/InstaPy)
+3. ❗️ Opened issue [#2](https://github.com/saviomartin/loficlub/issues/2) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+4. 🗣 Commented on [#6](https://github.com/KonradLinkowski/GeneticDrawer/issues/6) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+5. ❗️ Closed issue [#12](https://github.com/KonradLinkowski/GeneticDrawer/issues/12) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
 <!--END_SECTION:activity-->
