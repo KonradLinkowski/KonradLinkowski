@@ -10,9 +10,9 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6143](https://github.com/timgrossmann/InstaPy/issues/6143) in [timgrossmann/InstaPy](https://github.com/timgrossmann/InstaPy)
-2. 🗣 Commented on [#12823](https://github.com/expo/expo/issues/12823) in [expo/expo](https://github.com/expo/expo)
-3. 🗣 Commented on [#6143](https://github.com/timgrossmann/InstaPy/issues/6143) in [timgrossmann/InstaPy](https://github.com/timgrossmann/InstaPy)
-4. ❗️ Opened issue [#2](https://github.com/saviomartin/loficlub/issues/2) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-5. 🗣 Commented on [#6](https://github.com/KonradLinkowski/GeneticDrawer/issues/6) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+1. ❗️ Opened issue [#1](https://github.com/maksimovichsam/DoublePendulumVideo/issues/1) in [maksimovichsam/DoublePendulumVideo](https://github.com/maksimovichsam/DoublePendulumVideo)
+2. 🗣 Commented on [#6143](https://github.com/timgrossmann/InstaPy/issues/6143) in [timgrossmann/InstaPy](https://github.com/timgrossmann/InstaPy)
+3. 🗣 Commented on [#12823](https://github.com/expo/expo/issues/12823) in [expo/expo](https://github.com/expo/expo)
+4. 🗣 Commented on [#6143](https://github.com/timgrossmann/InstaPy/issues/6143) in [timgrossmann/InstaPy](https://github.com/timgrossmann/InstaPy)
+5. ❗️ Opened issue [#2](https://github.com/saviomartin/loficlub/issues/2) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
 <!--END_SECTION:activity-->
