@@ -10,9 +10,9 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/KonradLinkowski/GitPlayground/pull/4) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
-2. 🎉 Merged PR [#5](https://github.com/KonradLinkowski/GitPlayground/pull/5) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
-3. 💪 Opened PR [#5](https://github.com/KonradLinkowski/GitPlayground/pull/5) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
-4. 💪 Opened PR [#4](https://github.com/KonradLinkowski/GitPlayground/pull/4) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
-5. ❗️ Opened issue [#3](https://github.com/KonradLinkowski/GitPlayground/issues/3) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
+1. ❗️ Opened issue [#1](https://github.com/Clanhouse/giftify/issues/1) in [Clanhouse/giftify](https://github.com/Clanhouse/giftify)
+2. 🎉 Merged PR [#4](https://github.com/KonradLinkowski/GitPlayground/pull/4) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
+3. 🎉 Merged PR [#5](https://github.com/KonradLinkowski/GitPlayground/pull/5) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
+4. 💪 Opened PR [#5](https://github.com/KonradLinkowski/GitPlayground/pull/5) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
+5. 💪 Opened PR [#4](https://github.com/KonradLinkowski/GitPlayground/pull/4) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
 <!--END_SECTION:activity-->
