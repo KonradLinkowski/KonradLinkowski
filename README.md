@@ -10,9 +10,9 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3210](https://github.com/Eugeny/terminus/issues/3210) in [Eugeny/terminus](https://github.com/Eugeny/terminus)
-2. ❗️ Opened issue [#45](https://github.com/birkir/hekla/issues/45) in [birkir/hekla](https://github.com/birkir/hekla)
-3. ❗️ Opened issue [#1](https://github.com/maksimovichsam/DoublePendulumVideo/issues/1) in [maksimovichsam/DoublePendulumVideo](https://github.com/maksimovichsam/DoublePendulumVideo)
-4. 🗣 Commented on [#6143](https://github.com/timgrossmann/InstaPy/issues/6143) in [timgrossmann/InstaPy](https://github.com/timgrossmann/InstaPy)
-5. 🗣 Commented on [#12823](https://github.com/expo/expo/issues/12823) in [expo/expo](https://github.com/expo/expo)
+1. 🎉 Merged PR [#4](https://github.com/KonradLinkowski/GitPlayground/pull/4) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
+2. 🎉 Merged PR [#5](https://github.com/KonradLinkowski/GitPlayground/pull/5) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
+3. 💪 Opened PR [#5](https://github.com/KonradLinkowski/GitPlayground/pull/5) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
+4. 💪 Opened PR [#4](https://github.com/KonradLinkowski/GitPlayground/pull/4) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
+5. ❗️ Opened issue [#3](https://github.com/KonradLinkowski/GitPlayground/issues/3) in [KonradLinkowski/GitPlayground](https://github.com/KonradLinkowski/GitPlayground)
 <!--END_SECTION:activity-->
