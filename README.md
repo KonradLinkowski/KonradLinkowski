@@ -10,9 +10,9 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/kern/filepizza/issues/123) in [kern/filepizza](https://github.com/kern/filepizza)
-2. ❗️ Opened issue [#44](https://github.com/retejs/rete.js.org/issues/44) in [retejs/rete.js.org](https://github.com/retejs/rete.js.org)
-3. ❗️ Closed issue [#1](https://github.com/Clanhouse/giftify/issues/1) in [Clanhouse/giftify](https://github.com/Clanhouse/giftify)
-4. 💪 Opened PR [#2](https://github.com/Clanhouse/giftify/pull/2) in [Clanhouse/giftify](https://github.com/Clanhouse/giftify)
-5. ❗️ Opened issue [#1](https://github.com/Clanhouse/giftify/issues/1) in [Clanhouse/giftify](https://github.com/Clanhouse/giftify)
+1. 🗣 Commented on [#12823](https://github.com/expo/expo/issues/12823) in [expo/expo](https://github.com/expo/expo)
+2. 🗣 Commented on [#123](https://github.com/kern/filepizza/issues/123) in [kern/filepizza](https://github.com/kern/filepizza)
+3. ❗️ Opened issue [#44](https://github.com/retejs/rete.js.org/issues/44) in [retejs/rete.js.org](https://github.com/retejs/rete.js.org)
+4. ❗️ Closed issue [#1](https://github.com/Clanhouse/giftify/issues/1) in [Clanhouse/giftify](https://github.com/Clanhouse/giftify)
+5. 💪 Opened PR [#2](https://github.com/Clanhouse/giftify/pull/2) in [Clanhouse/giftify](https://github.com/Clanhouse/giftify)
 <!--END_SECTION:activity-->
