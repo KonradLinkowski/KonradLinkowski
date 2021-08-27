@@ -11,8 +11,8 @@
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
-2. ❗️ Opened issue [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
-3. 🗣 Commented on [#12823](https://github.com/expo/expo/issues/12823) in [expo/expo](https://github.com/expo/expo)
-4. 🗣 Commented on [#123](https://github.com/kern/filepizza/issues/123) in [kern/filepizza](https://github.com/kern/filepizza)
-5. ❗️ Opened issue [#44](https://github.com/retejs/rete.js.org/issues/44) in [retejs/rete.js.org](https://github.com/retejs/rete.js.org)
+2. 🗣 Commented on [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
+3. ❗️ Opened issue [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
+4. 🗣 Commented on [#12823](https://github.com/expo/expo/issues/12823) in [expo/expo](https://github.com/expo/expo)
+5. 🗣 Commented on [#123](https://github.com/kern/filepizza/issues/123) in [kern/filepizza](https://github.com/kern/filepizza)
 <!--END_SECTION:activity-->
