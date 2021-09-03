@@ -10,9 +10,9 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
+1. 🗣 Commented on [#9](https://github.com/Howchoo/pi-power-button/issues/9) in [Howchoo/pi-power-button](https://github.com/Howchoo/pi-power-button)
 2. 🗣 Commented on [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
-3. ❗️ Opened issue [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
-4. 🗣 Commented on [#12823](https://github.com/expo/expo/issues/12823) in [expo/expo](https://github.com/expo/expo)
-5. 🗣 Commented on [#123](https://github.com/kern/filepizza/issues/123) in [kern/filepizza](https://github.com/kern/filepizza)
+3. 🗣 Commented on [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
+4. ❗️ Opened issue [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
+5. 🗣 Commented on [#12823](https://github.com/expo/expo/issues/12823) in [expo/expo](https://github.com/expo/expo)
 <!--END_SECTION:activity-->
