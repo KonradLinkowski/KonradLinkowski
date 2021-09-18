@@ -10,9 +10,9 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#405](https://github.com/coreybutler/nvm-windows/issues/405) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
-2. 🗣 Commented on [#9](https://github.com/Howchoo/pi-power-button/issues/9) in [Howchoo/pi-power-button](https://github.com/Howchoo/pi-power-button)
-3. 🗣 Commented on [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
+1. ❗️ Opened issue [#1](https://github.com/Ewande/zoom-me-server/issues/1) in [Ewande/zoom-me-server](https://github.com/Ewande/zoom-me-server)
+2. 🗣 Commented on [#405](https://github.com/coreybutler/nvm-windows/issues/405) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+3. 🗣 Commented on [#9](https://github.com/Howchoo/pi-power-button/issues/9) in [Howchoo/pi-power-button](https://github.com/Howchoo/pi-power-button)
 4. 🗣 Commented on [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
-5. ❗️ Opened issue [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
+5. 🗣 Commented on [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
 <!--END_SECTION:activity-->
