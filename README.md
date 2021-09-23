@@ -10,9 +10,9 @@
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1228](https://github.com/ml5js/ml5-library/issues/1228) in [ml5js/ml5-library](https://github.com/ml5js/ml5-library)
-2. ❗️ Opened issue [#1](https://github.com/Ewande/zoom-me-server/issues/1) in [Ewande/zoom-me-server](https://github.com/Ewande/zoom-me-server)
-3. 🗣 Commented on [#405](https://github.com/coreybutler/nvm-windows/issues/405) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
-4. 🗣 Commented on [#9](https://github.com/Howchoo/pi-power-button/issues/9) in [Howchoo/pi-power-button](https://github.com/Howchoo/pi-power-button)
-5. 🗣 Commented on [#35](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue/issues/35) in [GregYankovoy/vue-cli-plugin-bootstrap-vue](https://github.com/GregYankovoy/vue-cli-plugin-bootstrap-vue)
+1. 🗣 Commented on [#1](https://github.com/Ewande/zoom-me-server/issues/1) in [Ewande/zoom-me-server](https://github.com/Ewande/zoom-me-server)
+2. 🗣 Commented on [#1228](https://github.com/ml5js/ml5-library/issues/1228) in [ml5js/ml5-library](https://github.com/ml5js/ml5-library)
+3. ❗️ Opened issue [#1](https://github.com/Ewande/zoom-me-server/issues/1) in [Ewande/zoom-me-server](https://github.com/Ewande/zoom-me-server)
+4. 🗣 Commented on [#405](https://github.com/coreybutler/nvm-windows/issues/405) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+5. 🗣 Commented on [#9](https://github.com/Howchoo/pi-power-button/issues/9) in [Howchoo/pi-power-button](https://github.com/Howchoo/pi-power-button)
 <!--END_SECTION:activity-->
