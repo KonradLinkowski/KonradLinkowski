@@ -14,11 +14,11 @@ I'm currently looking for job opportunities
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/KonradLinkowski/awesome-list-of-cool-people/issues/2) in [KonradLinkowski/awesome-list-of-cool-people](https://github.com/KonradLinkowski/awesome-list-of-cool-people)
-2. ❗️ Opened issue [#4](https://github.com/KonradLinkowski/Nostalgia/issues/4) in [KonradLinkowski/Nostalgia](https://github.com/KonradLinkowski/Nostalgia)
-3. ❗️ Opened issue [#3](https://github.com/KonradLinkowski/Nostalgia/issues/3) in [KonradLinkowski/Nostalgia](https://github.com/KonradLinkowski/Nostalgia)
-4. ❗️ Opened issue [#1](https://github.com/KonradLinkowski/awesome-list-of-cool-people/issues/1) in [KonradLinkowski/awesome-list-of-cool-people](https://github.com/KonradLinkowski/awesome-list-of-cool-people)
-5. ❗️ Opened issue [#2](https://github.com/KonradLinkowski/AntiCollision/issues/2) in [KonradLinkowski/AntiCollision](https://github.com/KonradLinkowski/AntiCollision)
+1. 🗣 Commented on [#1](https://github.com/KonradLinkowski/awesome-list-of-cool-people/issues/1) in [KonradLinkowski/awesome-list-of-cool-people](https://github.com/KonradLinkowski/awesome-list-of-cool-people)
+2. 🗣 Commented on [#2](https://github.com/KonradLinkowski/awesome-list-of-cool-people/issues/2) in [KonradLinkowski/awesome-list-of-cool-people](https://github.com/KonradLinkowski/awesome-list-of-cool-people)
+3. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/awesome-list-of-cool-people/pull/2) in [KonradLinkowski/awesome-list-of-cool-people](https://github.com/KonradLinkowski/awesome-list-of-cool-people)
+4. 🗣 Commented on [#2](https://github.com/KonradLinkowski/awesome-list-of-cool-people/issues/2) in [KonradLinkowski/awesome-list-of-cool-people](https://github.com/KonradLinkowski/awesome-list-of-cool-people)
+5. ❗️ Opened issue [#4](https://github.com/KonradLinkowski/Nostalgia/issues/4) in [KonradLinkowski/Nostalgia](https://github.com/KonradLinkowski/Nostalgia)
 <!--END_SECTION:activity-->
 
 [github stats]: https://github-readme-stats.vercel.app/api?username=KonradLinkowski&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&hide_rank=true
