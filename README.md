@@ -14,11 +14,11 @@ I'm currently looking for job opportunities
 
 ## Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#618](https://github.com/strapi/documentation/issues/618) in [strapi/documentation](https://github.com/strapi/documentation)
-2. 💪 Opened PR [#112](https://github.com/sparkbox/bouncy-ball/pull/112) in [sparkbox/bouncy-ball](https://github.com/sparkbox/bouncy-ball)
-3. 🗣 Commented on [#39](https://github.com/lrlna/pino-colada/issues/39) in [lrlna/pino-colada](https://github.com/lrlna/pino-colada)
-4. 🗣 Commented on [#14](https://github.com/bryanbraun/checkboxland/issues/14) in [bryanbraun/checkboxland](https://github.com/bryanbraun/checkboxland)
-5. ❗️ Opened issue [#1](https://github.com/Hopson97/hoperload/issues/1) in [Hopson97/hoperload](https://github.com/Hopson97/hoperload)
+1. 🎉 Merged PR [#2](https://github.com/KonradLinkowski/calculator-app/pull/2) in [KonradLinkowski/calculator-app](https://github.com/KonradLinkowski/calculator-app)
+2. 💪 Opened PR [#2](https://github.com/KonradLinkowski/calculator-app/pull/2) in [KonradLinkowski/calculator-app](https://github.com/KonradLinkowski/calculator-app)
+3. 🎉 Merged PR [#1](https://github.com/KonradLinkowski/calculator-app/pull/1) in [KonradLinkowski/calculator-app](https://github.com/KonradLinkowski/calculator-app)
+4. 💪 Opened PR [#1](https://github.com/KonradLinkowski/calculator-app/pull/1) in [KonradLinkowski/calculator-app](https://github.com/KonradLinkowski/calculator-app)
+5. 💪 Opened PR [#1](https://github.com/donmikelee/calculator-app/pull/1) in [donmikelee/calculator-app](https://github.com/donmikelee/calculator-app)
 <!--END_SECTION:activity-->
 
 [github stats]: https://github-readme-stats.vercel.app/api?username=KonradLinkowski&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&hide_rank=true
