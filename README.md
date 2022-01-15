@@ -1,5 +1,4 @@
 # Hello there 👋
-I'm currently looking for job opportunities
 
 ---
 
