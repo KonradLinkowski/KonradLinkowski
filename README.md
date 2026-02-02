@@ -7,7 +7,7 @@ I'm a **Frontend Developer** who loves building things that live at the intersec
 - Previous experience with **Angular**
 - I enjoy **experimenting with different frameworks** and approaches 🚀
 - From time to time I also build a bit of **backend** — just enough to make things work end-to-end ⚙️  
-  Links: [Nostalgia - Svelte app][project framework Nostalgia], [smovie - vue.js app][project framework smovie], [Products Database - Angular app][project framework ProductsDatabase]
+  Links: [Nostalgia - Svelte app][project framework Nostalgia], [Alpine Dashboard][project framework AlpineDashboard], [smovie - vue.js app][project framework smovie], [Products Database - Angular app][project framework ProductsDatabase]
 
 ### 🧩 Programming challenges
 - I like solving **programming challenges** to sharpen my problem-solving skills 🧠
@@ -54,6 +54,7 @@ I'm a **Frontend Developer** who loves building things that live at the intersec
 [project framework Nostalgia]: https://github.com/KonradLinkowski/Nostalgia
 [project framework ProductsDatabase]: https://github.com/KonradLinkowski/ProductsDatabase
 [project framework smovie]: https://github.com/KonradLinkowski/smovie
+[project framework AlpineDashboard]: https://github.com/KonradLinkowski/AlpineDashboard
 
 [project challenge AdventOfCode]: https://github.com/KonradLinkowski/AdventOfCode
 [project challenge ReplyChallenge2021]: https://github.com/KonradLinkowski/ReplyChallenge2021
